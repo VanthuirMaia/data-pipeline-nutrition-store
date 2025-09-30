@@ -11,7 +11,6 @@ até a **geração de insights de negócio** e finalização com um **dashboard 
 - Produtos mais vendidos;
 - Marcas com maior participação no faturamento;
 - Comparação entre lojas (Loja 1, Loja 2, Filial);
-- Comportamento de clientes e ticket médio;
 - Visualizações executivas (KPIs, gráficos organizados em grid).
 
 Este projeto serve tanto como **portfólio** quanto como **exercício prático** de boas práticas em Engenharia de Dados,
