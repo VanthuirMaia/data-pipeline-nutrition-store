@@ -1,0 +1,943 @@
+ID_Venda,Cliente,Produto,Marca,Preco,Quantidade,Data_Venda,Pagamento,Loja
+1,Rodrigo,Creatina,Integralmedica,246.86,2.0,2025-03-10 18:14:51.944741,Não informado,Loja 2
+2,Mariana,Pré-Treino,Atlhetica Nutrition,-156.11,2.0,2024-10-09 18:14:51.944767,Não informado,Loja 2
+3,Rafael,BCAA,Midway,158.16,2.0,32/13/2023,Cartao,Filial A
+4,Bruna,Omega 3,Optimum Nutrition,64.97,2.0,2024-11-20 18:14:51.944787,Cartão,Loja 1
+5,Juliana,Hipercalórico,Integralmedica,98.49,2.0,2024-12-01 18:14:51.944813,Pix,Loja 1
+6,João,Glutamina,Midway,184.45,2.0,2025-07-31 18:14:51.944841,Não informado,Loja 1
+7,Juliana,Barra Proteica,Black Skull,80.74,3.0,2025-05-13 18:14:51.944851,Cartão,Não informado
+8,Rodrigo,Glutamina,Midway,147.46,1.0,2024-11-25 18:14:51.944865,Pix,Loja 2
+9,Rodrigo,Multivitamínico,Universal,218.46,3.0,2025-02-27 18:14:51.944876,Pix,Filial A
+10,Carlos,Whey Protein,Probiótica,103.15,2.0,2024-12-16 18:14:51.944885,Não informado,Não informado
+11,Lucas,Omega 3,Growth,240.81,2.0,2025-03-29 18:14:51.944893,Não informado,Não informado
+12,Rodrigo,Hipercalórico,Optimum Nutrition,238.04,2.0,2024-10-22 18:14:51.944901,Dinheiro,Loja 2
+13,Ana,Albumina,Growth,213.67,2.0,2025-05-11 18:14:51.944909,Cartão,Filial A
+14,Diego,Glutamina,BodyAction,130.26,2.0,2025-08-15 18:14:51.944916,Não informado,Loja 2
+15,Rafael,Glutamina,Universal,126.54,3.0,2025-04-10 18:14:51.944924,Pix,Loja 2
+16,Mariana,albumina,Black Skull,201.35,1.0,2025-06-20 18:14:51.944933,Não informado,Não informado
+17,Rodrigo,Glutamina,Atlhetica Nutrition,241.21,3.0,2024-11-19 18:14:51.944940,Cartão,Filial A
+18,João,Multivitamínico,Integralmedica,216.65,2.0,2025-02-16 18:14:51.944947,Dinheiro,Loja 2
+20,Paulo,Albumina,Atlhetica Nutrition,158.07,3.0,2024-10-05 18:14:51.944962,Não informado,Loja 2
+21,Carlos,Omega 3,Max Titanium,193.51,2.0,2025-02-03 18:14:51.944970,Cartão,Não informado
+22,Lucas,Multivitamínico,Integr@lmedic@,229.17,1.0,2024-10-15 18:14:51.944978,Pix,Filial A
+23,Camila,Whey Protein,Integralmedica,157.68,2.0,2025-07-18 18:14:51.944987,Não informado,Filial A
+24,Rodrigo,Whey Protein,Atlhetica Nutrition,62.73,2.0,2025-05-25 18:14:51.944994,Dinheiro,Loja 2
+25,Ana,Multivitamínico,Max Titanium,127.49,2.0,2025-04-07 18:14:51.945001,Pix,Filial A
+26,Mariana,Hipercalórico,Integralmedica,179.45,1.0,2025-01-04 18:14:51.945008,Não informado,Loja 1
+27,Fernanda,Whey Protein,Growth,-126.95,3.0,2025-08-25 18:14:51.945016,Dinheiro,Não informado
+28,Mariana,Omega 3,Integralmedica,191.27,2.0,32/13/2023,Cartão,Loja 1
+29,Juliana,Glutamina,Integralmedica,88.63,3.0,2025-02-09 18:14:51.945031,Não informado,Não informado
+30,Juliana,Multivitamínico,Max Titanium,213.52,3.0,2025-08-30 18:14:51.945038,Cartao,Loja 1
+31,Rodrigo,Omega 3,BodyAction,201.38,2.0,2025-02-12 18:14:51.945045,Pix,Não informado
+32,Bruna,Hipercalórico,Optimum Nutrition,111.18,1.0,2025-01-02 18:14:51.945053,Dinheiro,Loja 1
+33,Patrícia,Barra Proteica,Integralmedica,59.44,1.0,2024-10-14 18:14:51.945061,Não informado,Loja 2
+34,Fernanda,Albumina,Probiótica,192.48,2.0,2024-12-11 18:14:51.945069,Cartão,Loja 1
+35,Camila,Hipercalórico,Bl@ck Skull,216.26,2.0,2025-03-23 18:14:51.945076,Cartao,Loja 1
+36,Mariana,BCAA,Black Skull,222.75,3.0,2025-03-04 18:14:51.945084,Cartao,Não informado
+38,Camila,Multivitamínico,Integralmedica,236.12,3.0,2024-12-12 18:14:51.945098,Cartão,Não informado
+39,Rodrigo,Pré-Treino,Optimum Nutrition,145.76,2.0,2025-03-15 18:14:51.945105,Cartão,Loja 2
+40,Bruna,Barra Proteica,Optimum Nutrition,203.36,3.0,2025-09-07 18:14:51.945112,Dinheiro,Filial A
+41,Rodrigo,Glutamina,Probiótica,239.36,2.0,2025-04-11 18:14:51.945119,Cartao,Loja 1
+42,Rodrigo,Multivitamínico,BodyAction,113.51,2.0,2025-01-07 18:14:51.945126,Não informado,Loja 2
+44,Ana,Multivitamínico,Black Skull,97.53,2.0,2025-01-27 18:14:51.945145,Dinheiro,Não informado
+45,Fernanda,Albumina,Integralmedica,82.06,3.0,32/13/2023,Cartao,Loja 2
+46,Bruna,BCAA,Universal,138.78,3.0,2024-10-24 18:14:51.945182,Não informado,Loja 2
+47,João,Pré-Treino,Midway,208.42,2.0,2025-07-19 18:14:51.945190,Não informado,Não informado
+48,Patrícia,Barra Proteica,Atlhetica Nutrition,153.5,2.0,2025-03-16 18:14:51.945198,Dinheiro,Filial A
+49,Paulo,Barra Proteica,Midway,143.72,2.0,2025-04-21 18:14:51.945205,Não informado,Loja 1
+50,Gabriela,Creatina,Growth,67.99,2.0,2025-06-12 18:14:51.945212,Cartão,Filial A
+51,Lucas,Albumina,Optimum Nutrition,210.47,2.0,2025-03-01 18:14:51.945219,Não informado,Não informado
+52,Mariana,Omega 3,Black Skull,182.77,1.0,2025-07-22 18:14:51.945226,Cartao,Não informado
+53,Diego,BCAA,Atlhetica Nutrition,228.8,3.0,2025-04-09 18:14:51.945234,Pix,Loja 1
+54,Mariana,BCAA,Integralmedica,89.43,1.0,2025-04-01 18:14:51.945241,Cartao,Loja 1
+55,Lucas,Barra Proteica,Black Skull,233.19,1.0,2024-11-01 18:14:51.945248,Pix,Filial A
+56,Diego,Hipercalórico,Optimum Nutrition,224.41,2.0,32/13/2023,Cartao,Loja 2
+57,Camila,Multivitamínico,Black Skull,220.73,3.0,2025-07-24 18:14:51.945262,Pix,Loja 2
+58,Diego,Glutamina,Max Titanium,-229.16,1.0,2025-05-28 18:14:51.945270,Pix,Loja 1
+60,Ana,BCAA,Max Titanium,136.59,1.0,2025-03-15 18:14:51.945289,Não informado,Loja 2
+61,Diego,Pré-Treino,Integralmedica,222.18,1.0,2025-07-01 18:14:51.945300,Pix,Loja 2
+62,Camila,Omega 3,Max Titanium,114.28,3.0,2024-11-26 18:14:51.945312,Pix,Loja 2
+63,Bruna,Glutamina,BodyAction,106.29,2.0,2025-01-20 18:14:51.945324,Cartão,Não informado
+64,Carlos,multivitamínico,Max Titanium,189.62,3.0,2025-04-19 18:14:51.945336,Cartao,Filial A
+65,Diego,Glutamina,Probiótica,131.95,2.0,2025-02-04 18:14:51.945344,Cartao,Não informado
+66,Mariana,BCAA,Growth,224.05,2.0,2024-10-26 18:14:51.945352,Dinheiro,Loja 2
+68,Bruna,BCAA,Atlhetica Nutrition,145.34,2.0,2025-06-11 18:14:51.945367,Cartão,Filial A
+69,Gabriela,BCAA,Midway,106.38,2.0,2025-03-24 18:14:51.945374,Cartao,Loja 1
+70,Ana,Multivitamínico,Atlhetica Nutrition,176.77,3.0,2024-12-19 18:14:51.945381,Pix,Loja 2
+71,Camila,BCAA,Midway,97.4,2.0,2025-09-20 18:14:51.945388,Cartão,Não informado
+72,Juliana,BCAA,Optimum Nutrition,195.57,2.0,2025-05-11 18:14:51.945395,Pix,Loja 1
+74,Patrícia,Whey Protein,BodyAction,-213.72,2.0,32/13/2023,Cartao,Loja 1
+75,Rafael,Multivitamínico,Optimum Nutrition,201.69,3.0,2025-06-20 18:14:51.945417,Cartao,Filial A
+76,Mariana,Barra Proteica,Max Titanium,78.35,1.0,2024-11-12 18:14:51.945425,Pix,Não informado
+77,Mariana,Albumina,Black Skull,152.34,2.0,2025-08-28 18:14:51.945432,Dinheiro,Loja 2
+78,Carlos,Omega 3,Max Titanium,132.53,1.0,2025-01-04 18:14:51.945439,Cartao,Loja 2
+79,Fernanda,Creatina,Max Titanium,61.3,2.0,2024-11-04 18:14:51.945446,Dinheiro,Não informado
+80,Ana,Whey Protein,Integralmedica,127.51,3.0,32/13/2023,Cartao,Loja 1
+81,Ana,Pré-Treino,Midway,226.33,2.0,2025-06-13 18:14:51.945461,Cartão,Filial A
+82,Patrícia,Omega 3,Probiótica,229.59,2.0,2025-09-15 18:14:51.945468,Não informado,Não informado
+83,João,BCAA,Max Titanium,164.04,2.0,2024-11-30 18:14:51.945475,Pix,Não informado
+85,Camila,Multivitamínico,Probiótica,56.24,2.0,2025-05-12 18:14:51.945494,Pix,Não informado
+86,Bruna,Barra Proteica,Atlhetica Nutrition,225.29,1.0,2025-04-30 18:14:51.945507,Cartão,Filial A
+87,Mariana,Glutamina,Probiótica,208.55,2.0,2025-09-22 18:14:51.945519,Dinheiro,Não informado
+88,Rodrigo,Barra Proteica,Growth,80.66,1.0,2025-09-10 18:14:51.945531,Cartao,Não informado
+89,Mariana,Whey Protein,Max Titanium,193.77,3.0,2025-06-25 18:14:51.945538,Cartao,Loja 1
+90,Gabriela,Whey Protein,Universal,193.11,1.0,2024-11-27 18:14:51.945545,Cartao,Loja 2
+91,Rafael,Albumina,Atlhetica Nutrition,130.36,3.0,2025-07-16 18:14:51.945553,Cartao,Não informado
+92,Rafael,Hipercalórico,Integralmedica,200.74,1.0,2025-04-07 18:14:51.945560,Dinheiro,Filial A
+93,Fernanda,BCAA,Probiótica,226.14,1.0,32/13/2023,Não informado,Loja 2
+94,Paulo,Pré-Treino,Optimum Nutrition,159.69,2.0,2025-06-09 18:14:51.945579,Cartao,Loja 1
+95,João,Multivitamínico,Probiótica,209.99,3.0,2025-05-29 18:14:51.945592,Pix,Loja 2
+96,Fernanda,Creatina,Growth,205.21,1.0,2025-02-25 18:14:51.945604,Cartao,Loja 1
+97,Paulo,Barra Proteica,Probiótica,177.04,1.0,2025-01-17 18:14:51.945616,Cartão,Filial A
+98,Paulo,Multivitamínico,BodyAction,226.13,1.0,32/13/2023,Cartao,Loja 1
+99,Diego,Glutamina,Max Titanium,-246.8,2.0,2025-06-11 18:14:51.945633,Cartão,Loja 1
+100,Gabriela,BCAA,Growth,142.64,1.0,2025-05-23 18:14:51.945640,Não informado,Não informado
+101,Mariana,Multivitamínico,Black Skull,243.71,2.0,2025-09-27 18:14:51.945647,Dinheiro,Não informado
+102,Ana,Glutamina,Midway,190.16,2.0,2025-07-24 18:14:51.945654,Não informado,Loja 1
+103,Diego,Multivitamínico,Growth,158.7,2.0,2025-02-18 18:14:51.945660,Cartao,Loja 1
+104,Carlos,Creatina,Atlhetica Nutrition,235.57,2.0,2025-08-16 18:14:51.945667,Dinheiro,Não informado
+105,Gabriela,Omega 3,Max Titanium,-73.17,3.0,2025-07-23 18:14:51.945674,Cartao,Loja 1
+107,Diego,Pré-Treino,BodyAction,221.57,2.0,2025-01-10 18:14:51.945688,Cartão,Loja 2
+108,João,Hipercalórico,Probiótica,58.58,2.0,2024-10-21 18:14:51.945696,Pix,Não informado
+109,Diego,Barra Proteica,Integralmedica,131.31,2.0,2024-11-27 18:14:51.945703,Cartao,Loja 1
+110,Bruna,barra proteica,Max Titanium,57.99,3.0,2025-04-27 18:14:51.945711,Não informado,Filial A
+111,Camila,Glutamina,Optimum Nutrition,189.05,2.0,2025-02-01 18:14:51.945719,Cartao,Filial A
+112,Fernanda,Omega 3,Black Skull,95.57,2.0,2024-12-14 18:14:51.945725,Pix,Loja 2
+113,Rodrigo,Albumina,Black Skull,172.61,3.0,2025-06-24 18:14:51.945732,Pix,Filial A
+114,João,Multivitamínico,Black Skull,216.08,2.0,2025-03-22 18:14:51.945740,Cartao,Filial A
+115,Camila,Barra Proteica,Black Skull,212.62,2.0,2025-06-25 18:14:51.945746,Pix,Não informado
+116,Diego,Omega 3,Midway,175.62,2.0,2025-03-15 18:14:51.945754,Dinheiro,Loja 2
+117,Carlos,Albumina,Growth,103.68,2.0,32/13/2023,Não informado,Loja 1
+118,Ana,Creatina,Black Skull,170.73,3.0,2025-05-31 18:14:51.945768,Não informado,Filial A
+119,Juliana,Pré-Treino,Universal,68.24,3.0,2025-01-24 18:14:51.945776,Dinheiro,Não informado
+120,João,Pré-Treino,Integralmedica,184.23,2.0,2025-02-13 18:14:51.945783,Cartão,Loja 1
+121,Bruna,Multivitamínico,Universal,203.01,2.0,2025-01-04 18:14:51.945790,Cartão,Não informado
+122,Fernanda,Barra Proteica,Probiótica,189.79,2.0,2025-06-10 18:14:51.945797,Cartao,Filial A
+123,João,Glutamina,Optimum Nutrition,179.1,1.0,2025-03-14 18:14:51.945804,Pix,Não informado
+124,Ana,Multivitamínico,Universal,123.32,2.0,2025-06-09 18:14:51.946125,Não informado,Loja 2
+125,Rodrigo,Whey Protein,Probiótica,189.06,2.0,2025-05-22 18:14:51.946146,Pix,Loja 2
+126,Rodrigo,Hipercalórico,Probiótica,224.36,2.0,2025-05-05 18:14:51.946160,Cartao,Loja 2
+127,João,Whey Protein,Max Titanium,85.75,3.0,2025-06-30 18:14:51.946230,Dinheiro,Loja 2
+129,Lucas,Glutamina,Max Titanium,58.45,3.0,2025-02-06 18:14:51.946260,Cartao,Não informado
+130,Fernanda,Omega 3,Optimum Nutrition,171.1,3.0,2025-01-04 18:14:51.946275,Dinheiro,Não informado
+131,Mariana,Whey Protein,Atlhetica Nutrition,126.51,2.0,2025-01-23 18:14:51.946288,Cartão,Loja 2
+132,Bruna,BCAA,Integralmedica,53.28,2.0,2025-03-09 18:14:51.946303,Cartao,Filial A
+133,Camila,Pré-Treino,Growth,70.26,2.0,2024-10-30 18:14:51.946316,Cartão,Filial A
+134,Rafael,Omega 3,Optimum Nutrition,-151.34,3.0,32/13/2023,Dinheiro,Filial A
+135,Ana,Multivitamínico,Optimum Nutrition,210.24,2.0,2025-02-20 18:14:51.946345,Cartão,Loja 1
+136,Mariana,Hipercalórico,Black Skull,173.37,1.0,32/13/2023,Dinheiro,Loja 2
+137,Bruna,Barra Proteica,Integralmedica,92.12,1.0,2025-05-17 18:14:51.946367,Cartão,Loja 2
+138,Diego,BCAA,Max Titanium,195.58,3.0,2024-12-08 18:14:51.946375,Pix,Filial A
+139,Fernanda,BCAA,Midway,229.32,2.0,2025-01-25 18:14:51.946382,Não informado,Filial A
+140,Diego,Hipercalórico,Black Skull,206.7,2.0,2025-08-10 18:14:51.946393,Não informado,Filial A
+141,Bruna,Hipercalórico,Max Titanium,182.58,1.0,2025-02-18 18:14:51.946401,Cartao,Loja 2
+142,Bruna,Multivitamínico,Atlhetica Nutrition,148.37,2.0,2025-02-21 18:14:51.946408,Pix,Loja 2
+143,Lucas,BCAA,Midway,-209.24,2.0,2025-08-13 18:14:51.946416,Dinheiro,Loja 1
+144,Ana,Multivitamínico,Atlhetica Nutrition,183.21,3.0,2025-04-13 18:14:51.946424,Não informado,Loja 1
+145,Ana,barra proteica,Integralmedica,103.47,1.0,2024-11-20 18:14:51.946433,Cartão,Não informado
+146,Lucas,Glutamina,BodyAction,56.41,2.0,2025-02-10 18:14:51.946447,Não informado,Filial A
+147,Patrícia,Hipercalórico,Black Skull,-190.65,2.0,2025-07-31 18:14:51.946460,Cartao,Loja 2
+148,Mariana,Creatina,Atlhetica Nutrition,74.52,3.0,2024-10-01 18:14:51.946473,Cartao,Loja 1
+149,Rafael,BCAA,Growth,87.31,2.0,2024-10-01 18:14:51.946486,Cartao,Loja 2
+150,Rodrigo,Albumina,Atlhetica Nutrition,86.79,3.0,2025-03-01 18:14:51.946500,Pix,Loja 2
+151,Ana,BCAA,Black Skull,204.17,3.0,32/13/2023,Cartao,Loja 2
+152,João,BCAA,BodyAction,168.1,1.0,2025-02-09 18:14:51.946532,Não informado,Filial A
+153,Fernanda,multivitamínico,Universal,215.91,2.0,2025-04-21 18:14:51.946543,Dinheiro,Não informado
+154,Patrícia,Glutamina,Probiótica,50.86,2.0,2025-05-30 18:14:51.946551,Cartao,Loja 1
+155,Carlos,Glutamina,Univers@l,203.36,1.0,2025-01-18 18:14:51.946558,Dinheiro,Filial A
+156,Juliana,Creatina,Universal,90.05,2.0,2024-11-02 18:14:51.946566,Cartao,Loja 1
+157,Carlos,BCAA,Integralmedica,231.19,1.0,2025-05-05 18:14:51.946575,Não informado,Loja 1
+158,Carlos,BCAA,Growth,201.69,2.0,2025-04-10 18:14:51.946583,Não informado,Não informado
+159,Fernanda,Creatina,Max Titanium,211.32,1.0,2024-11-16 18:14:51.946591,Cartão,Loja 1
+160,Mariana,BCAA,BodyAction,120.28,2.0,2025-08-07 18:14:51.946599,Cartao,Loja 2
+161,Mariana,Pré-Treino,Midway,95.35,2.0,2024-12-18 18:14:51.946613,Cartao,Filial A
+162,Gabriela,Albumina,ON,182.92,1.0,2025-04-21 18:14:51.946626,Cartão,Loja 2
+163,Rodrigo,Creatina,Max Titanium,160.32,1.0,2024-11-07 18:14:51.946639,Pix,Não informado
+164,Patrícia,Whey Protein,Black Skull,213.14,2.0,2025-08-22 18:14:51.946653,Pix,Loja 1
+165,Diego,Glutamina,Growth,223.9,1.0,2025-03-28 18:14:51.946661,Pix,Filial A
+166,Rafael,Creatina,Max Titanium,160.04,3.0,2024-12-21 18:14:51.946670,Cartão,Não informado
+167,Juliana,Whey Protein,Max Titanium,63.75,1.0,32/13/2023,Pix,Não informado
+168,Fernanda,Creatina,BodyAction,87.03,1.0,2024-11-11 18:14:51.946687,Cartao,Loja 2
+169,Paulo,BCAA,BodyAction,225.01,2.0,2025-01-20 18:14:51.946700,Cartão,Não informado
+170,João,Barra Proteica,BodyAction,132.31,1.0,2024-10-03 18:14:51.946712,Não informado,Não informado
+171,Ana,Creatina,Black Skull,166.04,1.0,2025-06-03 18:14:51.946720,Cartão,Loja 1
+172,Gabriela,Hipercalórico,Max Titanium,-215.99,2.0,2025-02-13 18:14:51.946728,Cartão,Filial A
+173,Rafael,Hipercalórico,Black Skull,91.36,2.0,2025-01-22 18:14:51.946740,Pix,Não informado
+174,Ana,glutamina,Growth,154.86,3.0,2025-07-19 18:14:51.946753,Dinheiro,Não informado
+175,Juliana,Whey Protein,Max Titanium,139.87,2.0,2025-03-14 18:14:51.946767,Cartao,Loja 2
+176,Diego,bcaa,Optimum Nutrition,178.38,3.0,2025-01-05 18:14:51.946780,Cartão,Filial A
+177,Rodrigo,Omega 3,Growth,229.76,2.0,2024-11-12 18:14:51.946788,Não informado,Loja 1
+178,Mariana,Whey Protein,BodyAction,87.47,2.0,2025-05-24 18:14:51.946795,Pix,Loja 2
+179,Gabriela,Hipercalórico,Midway,89.25,2.0,2025-04-10 18:14:51.946803,Dinheiro,Filial A
+180,Diego,Pré-Treino,Max Titanium,223.31,1.0,2025-08-08 18:14:51.946811,Não informado,Não informado
+181,Paulo,BCAA,Atlhetica Nutrition,131.83,2.0,2025-06-14 18:14:51.946818,Dinheiro,Loja 1
+182,Carlos,Glutamina,Probiótic@,181.46,2.0,2025-01-22 18:14:51.946826,Dinheiro,Não informado
+183,Camila,Albumina,Probiótica,119.79,2.0,2025-09-16 18:14:51.946834,Não informado,Loja 1
+184,Gabriela,Glutamina,Probiótica,91.81,2.0,2025-06-06 18:14:51.946842,Cartão,Loja 1
+185,Paulo,Pré-Treino,Black Skull,216.72,2.0,32/13/2023,Dinheiro,Não informado
+186,Carlos,Creatina,Integralmedica,83.24,3.0,2025-02-10 18:14:51.946858,Não informado,Loja 2
+187,Diego,Hipercalórico,Optimum Nutrition,196.68,2.0,2025-03-06 18:14:51.946866,Não informado,Não informado
+188,Camila,Creatina,Integralmedica,239.91,2.0,2025-09-02 18:14:51.946877,Não informado,Loja 2
+189,Juliana,BCAA,Midway,66.71,2.0,2025-05-19 18:14:51.946888,Dinheiro,Loja 2
+190,Ana,Hipercalórico,Integralmedica,153.59,2.0,2024-11-09 18:14:51.946900,Pix,Não informado
+191,Mariana,Glutamina,Growth,188.18,1.0,2025-04-17 18:14:51.946912,Não informado,Loja 1
+192,Carlos,Pré-Treino,Optimum Nutrition,207.49,2.0,2025-04-02 18:14:51.946920,Cartão,Filial A
+193,Juliana,Glutamina,Integralmedica,148.23,2.0,2025-07-02 18:14:51.946927,Pix,Loja 1
+194,Rafael,Hipercalórico,ON,102.26,3.0,2025-08-15 18:14:51.946947,Não informado,Filial A
+195,Fernanda,BCAA,Probiótica,248.13,2.0,2025-04-24 18:14:51.946954,Não informado,Não informado
+196,Paulo,Whey Protein,Optimum Nutrition,221.21,1.0,2024-11-14 18:14:51.946965,Não informado,Loja 2
+197,Mariana,Creatina,Max Titanium,228.04,3.0,2024-11-13 18:14:51.946978,Dinheiro,Não informado
+198,Diego,Pré-Treino,Probiótica,80.97,3.0,2025-07-04 18:14:51.946991,Pix,Não informado
+199,Patrícia,bcaa,Integralmedica,92.77,1.0,2025-02-05 18:14:51.947005,Cartao,Filial A
+200,Gabriela,Hipercalórico,Atlhetica Nutrition,130.66,3.0,2024-12-25 18:14:51.947014,Pix,Loja 2
+201,Rodrigo,Whey Protein,Black Skull,165.14,1.0,2025-06-06 18:14:51.947022,Pix,Loja 2
+202,Fernanda,Omega 3,Black Skull,216.35,1.0,2025-05-04 18:14:51.947030,Cartão,Filial A
+203,João,Pré-Treino,Atlhetica Nutrition,226.7,2.0,2025-08-08 18:14:51.947038,Não informado,Não informado
+204,Fernanda,Multivitamínico,BodyAction,68.28,2.0,2025-03-06 18:14:51.947046,Dinheiro,Loja 1
+205,Camila,Hipercalórico,Max Titanium,201.68,2.0,2025-01-16 18:14:51.947058,Não informado,Loja 1
+207,Gabriela,Multivitamínico,Midway,50.61,3.0,2024-11-21 18:14:51.947079,Dinheiro,Loja 1
+208,Carlos,Glutamina,BodyAction,108.45,3.0,2025-09-16 18:14:51.947091,Cartao,Loja 2
+209,Mariana,BCAA,BodyAction,117.54,1.0,2024-10-08 18:14:51.947103,Pix,Loja 2
+210,Fernanda,Omega 3,Atlhetica Nutrition,148.48,1.0,2025-01-07 18:14:51.947111,Cartão,Loja 2
+211,Bruna,Whey Protein,Growth,226.91,1.0,2025-03-16 18:14:51.947119,Cartao,Loja 1
+212,Rafael,Pré-Treino,Probiótica,135.96,1.0,2025-01-24 18:14:51.947127,Cartao,Não informado
+213,Juliana,Omega 3,Probiótica,242.63,1.0,2025-01-02 18:14:51.947135,Dinheiro,Filial A
+214,Patrícia,Pré-Treino,BodyAction,92.39,1.0,2025-09-02 18:14:51.947142,Pix,Não informado
+215,Paulo,Whey Protein,Atlhetica Nutrition,107.87,2.0,2025-05-22 18:14:51.947153,Dinheiro,Não informado
+216,Juliana,Barra Proteica,Universal,206.1,2.0,2025-08-15 18:14:51.947166,Pix,Loja 2
+217,Fernanda,Albumina,Midway,54.25,2.0,2025-07-02 18:14:51.947180,Cartão,Loja 2
+218,Rodrigo,Pré-Treino,Universal,131.56,2.0,2025-07-12 18:14:51.947193,Cartão,Não informado
+219,Juliana,Hipercalórico,Optimum Nutrition,248.94,3.0,2024-10-21 18:14:51.947205,Pix,Loja 2
+220,Camila,Omega 3,Growth,229.45,1.0,2025-07-19 18:14:51.947219,Não informado,Não informado
+221,Rafael,Whey Protein,Integralmedica,79.32,2.0,2024-12-22 18:14:51.947230,Cartao,Filial A
+222,Bruna,Creatina,BodyAction,187.13,3.0,2024-12-11 18:14:51.947242,Cartão,Filial A
+223,Rodrigo,Pré-Treino,Integralmedica,151.81,2.0,2025-09-14 18:14:51.947249,Dinheiro,Não informado
+224,Juliana,pré-treino,BodyAction,62.52,2.0,2025-01-15 18:14:51.947257,Cartão,Loja 2
+225,Rodrigo,Barra Proteica,Growth,172.41,1.0,2025-04-18 18:14:51.947266,Cartao,Loja 2
+226,Rodrigo,Omega 3,Optimum Nutrition,123.67,2.0,2025-02-16 18:14:51.947274,Pix,Não informado
+227,Mariana,Whey Protein,Integralmedica,76.01,2.0,2025-08-13 18:14:51.947281,Cartao,Não informado
+228,Camila,Hipercalórico,Midway,102.71,3.0,2025-08-26 18:14:51.947288,Dinheiro,Loja 2
+229,Diego,Pré-Treino,Atlhetica Nutrition,233.16,1.0,32/13/2023,Dinheiro,Loja 1
+230,Carlos,Barra Proteica,Probiótica,183.93,3.0,2025-03-21 18:14:51.947313,Dinheiro,Não informado
+231,Carlos,Omega 3,Growth,59.56,1.0,2025-08-12 18:14:51.947325,Pix,Loja 1
+232,João,Multivitamínico,Max Titanium,231.01,2.0,2025-06-26 18:14:51.947338,Dinheiro,Loja 1
+233,Camila,Multivitamínico,Integralmedica,244.74,2.0,2024-10-13 18:14:51.947356,Dinheiro,Não informado
+234,Rodrigo,Pré-Treino,Max Titanium,-113.69,2.0,2025-09-18 18:14:51.947366,Não informado,Não informado
+235,Bruna,Creatina,Universal,153.66,1.0,2025-03-27 18:14:51.947377,Cartao,Loja 2
+236,Carlos,BCAA,Atlhetica Nutrition,224.69,2.0,2025-08-07 18:14:51.947389,Cartao,Loja 2
+237,Paulo,Creatina,Integralmedica,129.59,1.0,2024-12-18 18:14:51.947401,Pix,Loja 2
+238,Bruna,Barra Proteica,BodyAction,233.72,2.0,2024-10-25 18:14:51.947409,Cartao,Filial A
+239,Fernanda,Glutamina,Midway,175.9,2.0,2024-11-13 18:14:51.947418,Cartao,Loja 1
+240,Paulo,Multivitamínico,Probiótica,89.2,1.0,2024-11-18 18:14:51.947426,Cartao,Loja 1
+241,Lucas,Creatina,Optimum Nutrition,79.98,2.0,2025-07-13 18:14:51.947434,Dinheiro,Filial A
+242,Fernanda,Barra Proteica,Growth,50.13,2.0,2025-03-25 18:14:51.947442,Pix,Loja 1
+243,Gabriela,Albumina,Midway,184.6,2.0,2025-04-07 18:14:51.947449,Pix,Filial A
+244,Mariana,Omega 3,Probiótica,87.14,3.0,2025-03-13 18:14:51.947457,Dinheiro,Loja 2
+245,Fernanda,Barra Proteica,Integralmedica,87.32,2.0,2025-06-30 18:14:51.947465,Pix,Não informado
+246,Mariana,Barra Proteica,Probiótica,206.34,1.0,2024-12-17 18:14:51.947472,Pix,Filial A
+247,Ana,Multivitamínico,BodyAction,204.6,1.0,2025-06-22 18:14:51.947480,Não informado,Loja 1
+248,Camila,Omega 3,Max Titanium,89.83,2.0,2025-05-15 18:14:51.947488,Cartão,Filial A
+249,João,Hipercalórico,Optimum Nutrition,93.32,2.0,2025-02-27 18:14:51.947495,Não informado,Loja 1
+250,João,Hipercalórico,Growth,189.43,1.0,2025-09-11 18:14:51.947503,Dinheiro,Não informado
+251,Bruna,Barra Proteica,Midway,216.98,2.0,2025-03-29 18:14:51.947510,Não informado,Filial A
+252,Bruna,BCAA,BodyAction,61.67,2.0,2025-02-11 18:14:51.947518,Pix,Filial A
+253,Rodrigo,BCAA,BodyAction,158.27,3.0,2025-04-20 18:14:51.947526,Não informado,Filial A
+254,Mariana,Omega 3,Max Titanium,116.46,1.0,2025-09-08 18:14:51.947534,Pix,Filial A
+255,Gabriela,Pré-Treino,Max Titanium,226.62,3.0,2025-08-25 18:14:51.947541,Pix,Filial A
+256,Diego,Whey Protein,Universal,110.65,2.0,2025-03-16 18:14:51.947549,Cartao,Loja 2
+257,Diego,Pré-Treino,Optimum Nutrition,199.38,2.0,2025-03-25 18:14:51.947557,Cartão,Loja 2
+258,Juliana,BCAA,Max Titanium,90.04,1.0,2024-11-13 18:14:51.947565,Cartão,Loja 1
+259,Bruna,Whey Protein,Universal,-142.64,2.0,2025-03-07 18:14:51.947575,Cartão,Não informado
+260,Mariana,BCAA,Atlhetica Nutrition,103.13,1.0,2025-04-16 18:14:51.947582,Cartão,Não informado
+261,Bruna,Omega 3,Growth,74.19,2.0,2024-10-13 18:14:51.947591,Cartao,Loja 2
+262,Camila,Barra Proteica,Growth,163.37,2.0,2025-08-09 18:14:51.947601,Pix,Loja 1
+263,Gabriela,Glutamina,Probiótica,242.83,2.0,2025-04-19 18:14:51.947608,Pix,Filial A
+264,Bruna,Creatina,Optimum Nutrition,238.38,3.0,2024-12-08 18:14:51.947617,Cartao,Loja 1
+265,Mariana,Multivitamínico,Midway,63.98,2.0,2025-01-03 18:14:51.947626,Cartão,Loja 2
+266,Diego,Albumina,BodyAction,200.55,2.0,2025-09-02 18:14:51.947634,Dinheiro,Loja 1
+267,Camila,Whey Protein,Midway,150.69,2.0,2024-10-10 18:14:51.947642,Pix,Filial A
+268,Mariana,Pré-Treino,Growth,-212.72,2.0,2025-04-28 18:14:51.947650,Cartao,Loja 1
+269,Rodrigo,Barra Proteica,Max Titanium,240.82,1.0,2025-09-18 18:14:51.947658,Não informado,Loja 2
+270,Juliana,Barra Proteica,Max Titanium,196.98,2.0,2025-09-27 18:14:51.947666,Cartao,Loja 1
+271,João,Barra Proteica,Max Titanium,80.36,2.0,2025-03-04 18:14:51.947676,Dinheiro,Loja 1
+272,Carlos,Barra Proteica,Max Titanium,86.14,2.0,2025-07-22 18:14:51.947688,Não informado,Não informado
+273,Camila,Pré-Treino,Probiótic@,117.46,2.0,2024-10-31 18:14:51.947703,Pix,Loja 1
+274,Mariana,Glutamina,Growth,78.12,2.0,2024-10-24 18:14:51.947716,Dinheiro,Loja 2
+277,Rodrigo,Whey Protein,Integr@lmedic@,134.49,2.0,2024-12-18 18:14:51.947741,Cartão,Loja 2
+278,Lucas,Barra Proteica,Max Titanium,95.64,1.0,2025-04-07 18:14:51.947749,Dinheiro,Loja 1
+279,João,glutamina,Growth,149.28,3.0,2025-02-25 18:14:51.947757,Pix,Loja 1
+280,Rafael,Multivitamínico,Atlhetica Nutrition,99.22,3.0,2025-02-05 18:14:51.947768,Cartão,Loja 1
+281,Fernanda,Whey Protein,BodyAction,197.34,2.0,2025-03-09 18:14:51.947781,Cartão,Não informado
+282,Mariana,Hipercalórico,BodyAction,71.48,1.0,2025-04-07 18:14:51.947804,Cartao,Loja 1
+283,João,omega 3,Probiótica,243.76,3.0,2025-01-21 18:14:51.947814,Cartao,Loja 2
+284,Carlos,pré-treino,Integralmedica,139.36,2.0,2025-09-14 18:14:51.947822,Não informado,Loja 1
+285,Rafael,Pré-Treino,Probiótica,237.75,2.0,2025-02-18 18:14:51.947830,Cartão,Filial A
+286,Lucas,Creatina,Optimum Nutrition,132.96,1.0,2025-08-26 18:14:51.947838,Cartão,Não informado
+287,Lucas,Multivitamínico,Bl@ck Skull,97.19,3.0,32/13/2023,Dinheiro,Loja 1
+288,Rafael,bcaa,BodyAction,169.59,2.0,2024-11-06 18:14:51.947858,Cartão,Loja 2
+289,Diego,Barra Proteica,Universal,132.18,2.0,2025-06-11 18:14:51.947871,Cartão,Não informado
+290,Diego,Barra Proteica,Integralmedica,187.78,3.0,2024-12-05 18:14:51.947881,Cartão,Não informado
+291,Juliana,Whey Protein,Black Skull,-182.06,2.0,2024-12-27 18:14:51.947889,Cartão,Loja 1
+292,Bruna,Whey Protein,Growth,219.92,1.0,2025-06-01 18:14:51.947899,Não informado,Não informado
+293,Camila,BCAA,Optimum Nutrition,175.19,1.0,2025-08-24 18:14:51.947912,Cartao,Filial A
+294,Patrícia,Omega 3,Optimum Nutrition,197.49,3.0,2025-02-17 18:14:51.947934,Não informado,Loja 2
+295,Ana,Whey Protein,Optimum Nutrition,85.97,3.0,2024-11-29 18:14:51.947948,Cartão,Loja 2
+296,Fernanda,Multivitamínico,Integralmedica,80.09,2.0,2024-10-24 18:14:51.947965,Pix,Loja 1
+297,Lucas,Albumina,Max Titanium,58.8,2.0,2025-01-23 18:14:51.947973,Não informado,Loja 2
+298,Rafael,Hipercalórico,Optimum Nutrition,178.24,2.0,2024-10-05 18:14:51.947981,Não informado,Não informado
+299,Bruna,Omega 3,Midway,80.34,3.0,2025-08-08 18:14:51.947988,Dinheiro,Filial A
+301,Camila,Hipercalórico,Optimum Nutrition,170.39,2.0,2025-08-28 18:14:51.948003,Cartão,Loja 2
+302,Rodrigo,Creatina,Probiótica,212.97,2.0,2025-08-05 18:14:51.948010,Cartao,Não informado
+303,Camila,Whey Protein,Growth,130.12,2.0,2025-03-29 18:14:51.948019,Pix,Filial A
+304,Diego,BCAA,Universal,-107.83,2.0,2025-08-28 18:14:51.948029,Cartao,Loja 1
+305,Juliana,Omega 3,BodyAction,158.21,2.0,2025-03-08 18:14:51.948042,Não informado,Loja 2
+306,Carlos,Glutamina,BodyAction,115.29,2.0,2025-05-17 18:14:51.948057,Não informado,Loja 2
+307,Paulo,Barra Proteica,Optimum Nutrition,187.74,3.0,2025-04-22 18:14:51.948068,Cartão,Loja 1
+308,Carlos,Barra Proteica,Integralmedica,122.26,1.0,2025-04-03 18:14:51.948081,Cartao,Loja 1
+309,Bruna,Whey Protein,BodyAction,132.16,3.0,2025-04-15 18:14:51.948095,Cartão,Não informado
+310,Diego,whey protein,Midway,166.07,2.0,2025-03-21 18:14:51.948107,Pix,Não informado
+312,Juliana,Glutamina,Probiótica,76.17,2.0,2025-03-18 18:14:51.948134,Dinheiro,Não informado
+313,Rafael,Glutamina,Atlhetica Nutrition,51.83,2.0,2025-07-31 18:14:51.948146,Pix,Loja 2
+314,Juliana,Multivitamínico,Optimum Nutrition,-63.47,2.0,2025-05-09 18:14:51.948157,Cartão,Loja 1
+315,Rafael,Omega 3,BodyAction,230.89,2.0,2025-01-26 18:14:51.948167,Não informado,Loja 2
+316,João,Creatina,Atlhetica,210.38,2.0,2025-05-18 18:14:51.948174,Cartao,Loja 1
+317,Mariana,Creatina,BodyAction,118.43,2.0,32/13/2023,Não informado,Filial A
+318,Rodrigo,BCAA,BodyAction,188.94,3.0,2025-03-28 18:14:51.948194,Pix,Loja 1
+319,Ana,Hipercalórico,Black Skull,89.36,2.0,2025-07-13 18:14:51.948209,Cartao,Filial A
+320,Juliana,Omega 3,Optimum Nutrition,66.97,2.0,2025-05-28 18:14:51.948221,Dinheiro,Não informado
+321,Mariana,Whey Protein,BodyAction,144.95,1.0,2025-08-26 18:14:51.948244,Cartao,Loja 2
+322,Rodrigo,Whey Protein,Probiótic@,95.91,2.0,2025-05-16 18:14:51.948253,Dinheiro,Filial A
+324,Patrícia,Albumina,BodyAction,63.19,1.0,2025-09-22 18:14:51.948273,Pix,Loja 2
+325,Gabriela,Barra Proteica,BodyAction,127.2,2.0,2024-10-11 18:14:51.948288,Pix,Filial A
+326,Diego,Barra Proteica,Max Titanium,-125.37,2.0,2024-11-27 18:14:51.948299,Cartao,Filial A
+327,Mariana,Glutamina,BodyAction,97.09,1.0,2024-11-03 18:14:51.948308,Cartao,Loja 1
+328,Bruna,BCAA,Integralmedica,165.61,1.0,2025-09-07 18:14:51.948315,Cartão,Loja 2
+330,Rodrigo,Glutamina,Max Titanium,160.61,1.0,2024-12-02 18:14:51.948337,Cartão,Não informado
+331,Patrícia,Hipercalórico,BodyAction,223.27,1.0,32/13/2023,Cartão,Não informado
+334,Carlos,Hipercalórico,Midway,173.04,2.0,2025-02-21 18:14:51.948399,Dinheiro,Filial A
+335,Fernanda,BCAA,Midway,206.98,1.0,2025-01-31 18:14:51.948411,Cartao,Loja 1
+336,Rafael,Whey Protein,Integralmedica,-229.36,2.0,2025-09-18 18:14:51.948423,Dinheiro,Não informado
+337,Camila,Albumina,BodyAction,52.94,1.0,2024-12-11 18:14:51.948436,Dinheiro,Loja 1
+338,Juliana,Multivitamínico,Max Titanium,184.19,2.0,2025-08-22 18:14:51.948450,Não informado,Loja 2
+339,Patrícia,Creatina,Integralmedica,238.61,2.0,2025-09-02 18:14:51.948464,Pix,Filial A
+340,Patrícia,BCAA,Black Skull,137.02,2.0,2024-12-08 18:14:51.948478,Pix,Não informado
+342,Rodrigo,Multivitamínico,BodyAction,106.0,2.0,2025-07-09 18:14:51.948513,Cartao,Loja 2
+343,Carlos,BCAA,BodyAction,146.29,1.0,2025-08-14 18:14:51.948527,Pix,Loja 1
+344,Lucas,BCAA,Max Titanium,135.48,2.0,2025-03-28 18:14:51.948541,Cartao,Loja 1
+345,Rodrigo,Barra Proteica,Optimum Nutrition,52.94,1.0,2025-01-14 18:14:51.948556,Pix,Filial A
+346,Paulo,Glutamina,Midway,92.67,3.0,2025-05-10 18:14:51.948568,Cartão,Não informado
+347,Rodrigo,Creatina,BodyAction,112.17,1.0,2025-09-11 18:14:51.948580,Cartão,Loja 2
+348,Rafael,Omega 3,Integralmedica,226.33,3.0,2025-01-04 18:14:51.948592,Dinheiro,Filial A
+349,Rodrigo,BCAA,Black Skull,139.56,3.0,2025-04-29 18:14:51.948604,Não informado,Loja 2
+350,Fernanda,Glutamina,Probiótica,243.81,1.0,2025-04-13 18:14:51.948622,Cartao,Não informado
+351,Camila,Glutamina,Optimum Nutrition,129.41,1.0,32/13/2023,Pix,Filial A
+352,Carlos,Whey Protein,Growth,69.95,2.0,2025-08-12 18:14:51.948648,Cartão,Loja 2
+353,Rafael,Glutamina,Universal,54.76,2.0,2025-04-21 18:14:51.948662,Pix,Loja 1
+354,Gabriela,BCAA,Integralmedica,230.02,1.0,2025-07-11 18:14:51.948677,Cartão,Loja 1
+355,Rafael,Creatina,Integralmedica,187.28,3.0,2025-09-13 18:14:51.948689,Cartão,Não informado
+356,Carlos,Multivitamínico,Optimum Nutrition,198.63,2.0,2024-10-23 18:14:51.948700,Cartão,Loja 1
+357,Ana,Hipercalórico,Probiótica,188.01,2.0,2025-04-04 18:14:51.948711,Cartão,Loja 2
+358,Bruna,Whey Protein,Black Skull,231.97,3.0,2024-11-18 18:14:51.948723,Dinheiro,Filial A
+359,Rafael,Pré-Treino,Atlhetica Nutrition,61.86,1.0,32/13/2023,Não informado,Não informado
+360,Camila,Omega 3,Optimum Nutrition,98.33,2.0,2025-06-10 18:14:51.948746,Não informado,Filial A
+361,Patrícia,Barra Proteica,Probiótic@,201.75,1.0,2025-06-10 18:14:51.948760,Pix,Loja 1
+362,Carlos,Multivitamínico,Black Skull,141.88,2.0,2024-10-26 18:14:51.948771,Dinheiro,Loja 2
+363,Juliana,Pré-Treino,M@x Tit@nium,178.63,1.0,2025-03-31 18:14:51.948784,Não informado,Não informado
+364,Fernanda,Glutamina,Max Titanium,77.22,3.0,2025-02-08 18:14:51.948796,Não informado,Não informado
+365,Rafael,Barra Proteica,Midway,129.05,2.0,2024-10-21 18:14:51.948812,Dinheiro,Loja 1
+366,Camila,BCAA,Integralmedica,54.93,2.0,2025-02-14 18:14:51.948825,Pix,Loja 2
+367,João,omega 3,Integralmedica,84.18,1.0,2025-01-05 18:14:51.948839,Cartao,Loja 1
+368,Gabriela,Albumina,Max Titanium,160.05,3.0,2024-12-12 18:14:51.948851,Cartao,Loja 2
+369,Paulo,Creatina,Growth,145.75,2.0,2025-08-26 18:14:51.948863,Cartao,Loja 2
+370,Fernanda,Barra Proteica,BodyAction,60.68,2.0,2025-01-28 18:14:51.948874,Cartão,Loja 2
+371,Fernanda,Pré-Treino,Probiótica,67.74,2.0,2025-07-24 18:14:51.948890,Não informado,Loja 1
+372,Carlos,Hipercalórico,Midway,75.31,2.0,2025-09-11 18:14:51.948902,Cartão,Filial A
+373,Camila,BCAA,Optimum Nutrition,225.16,1.0,2025-07-25 18:14:51.948914,Cartao,Filial A
+374,Camila,Whey Protein,Growth,208.61,2.0,2025-02-06 18:14:51.948926,Não informado,Loja 1
+375,Lucas,Omega 3,Growth,186.53,1.0,2025-02-01 18:14:51.948938,Não informado,Loja 1
+376,Rodrigo,BCAA,Probiótica,218.43,1.0,2024-11-16 18:14:51.948950,Dinheiro,Loja 2
+378,João,Hipercalórico,BodyAction,166.24,3.0,32/13/2023,Cartao,Não informado
+379,João,Glutamina,Probiótica,170.9,2.0,2025-03-16 18:14:51.948994,Cartão,Loja 1
+380,Patrícia,BCAA,Integralmedica,160.96,1.0,2024-10-17 18:14:51.949007,Não informado,Loja 1
+381,Fernanda,Multivitamínico,Midway,177.89,1.0,2024-10-28 18:14:51.949020,Cartao,Filial A
+382,João,Pré-Treino,Integralmedica,142.19,1.0,2025-03-27 18:14:51.949033,Dinheiro,Loja 2
+383,Patrícia,Pré-Treino,Probiótica,183.69,2.0,2025-05-16 18:14:51.949044,Cartao,Não informado
+384,Camila,Barra Proteica,Optimum Nutrition,248.07,3.0,2025-06-19 18:14:51.949057,Dinheiro,Não informado
+385,Rafael,Barra Proteica,Universal,126.46,3.0,2025-07-27 18:14:51.949069,Pix,Filial A
+386,Rafael,Whey Protein,Midway,237.98,2.0,2025-03-09 18:14:51.949082,Pix,Filial A
+387,Lucas,Hipercalórico,Integralmedica,224.02,1.0,2025-05-16 18:14:51.949095,Cartão,Filial A
+388,Ana,Glutamina,Probiótica,73.27,2.0,2025-09-01 18:14:51.949113,Cartao,Loja 2
+389,Gabriela,Multivitamínico,Growth,149.14,2.0,2025-07-19 18:14:51.949127,Cartão,Filial A
+390,Paulo,Omega 3,BodyAction,243.89,2.0,2025-01-14 18:14:51.949142,Pix,Filial A
+391,Rodrigo,multivitamínico,Integralmedica,188.3,2.0,2025-06-08 18:14:51.949158,Cartao,Não informado
+392,Mariana,Barra Proteica,Universal,232.21,2.0,2024-11-11 18:14:51.949169,Dinheiro,Não informado
+393,Camila,Omega 3,Atlhetica Nutrition,57.27,2.0,2025-07-26 18:14:51.949184,Dinheiro,Filial A
+395,Carlos,Pré-Treino,Integralmedica,55.36,2.0,2025-05-26 18:14:51.949208,Pix,Filial A
+396,Rodrigo,Pré-Treino,Integralmedica,189.86,2.0,2025-09-29 18:14:51.949223,Cartao,Loja 2
+397,Juliana,Albumina,Universal,129.42,2.0,2025-09-06 18:14:51.949236,Cartao,Não informado
+398,Juliana,Creatina,Probiótica,81.19,2.0,2024-12-18 18:14:51.949250,Dinheiro,Loja 1
+399,Rodrigo,Multivitamínico,Universal,101.65,2.0,2025-05-18 18:14:51.949264,Dinheiro,Loja 2
+400,Paulo,BCAA,BodyAction,100.75,2.0,2024-10-24 18:14:51.949280,Dinheiro,Loja 2
+401,Paulo,Albumina,Midway,59.86,2.0,2025-05-27 18:14:51.949294,Cartão,Loja 1
+403,Camila,Creatina,Universal,129.86,3.0,2025-03-16 18:14:51.949326,Pix,Não informado
+404,Ana,Albumina,Integralmedica,135.62,2.0,2024-12-14 18:14:51.949336,Pix,Filial A
+405,Bruna,glutamina,Max Titanium,168.19,2.0,2025-08-30 18:14:51.949349,Cartão,Loja 2
+406,Ana,Glutamina,Growth,77.19,1.0,2025-06-18 18:14:51.949360,Cartao,Não informado
+407,Diego,Omega 3,Growth,82.99,1.0,2024-11-25 18:14:51.949373,Dinheiro,Loja 2
+409,Carlos,Barra Proteica,Atlhetica Nutrition,195.02,2.0,2025-07-28 18:14:51.949399,Dinheiro,Loja 1
+411,Bruna,Omega 3,BodyAction,164.48,1.0,2025-02-27 18:14:51.949420,Cartao,Filial A
+412,Bruna,Whey Protein,Growth,-144.05,3.0,2024-12-14 18:14:51.949451,Dinheiro,Não informado
+413,Diego,Creatina,Atlhetica Nutrition,91.18,1.0,2025-06-30 18:14:51.949463,Cartão,Loja 2
+414,Fernanda,BCAA,Universal,172.82,3.0,2024-11-20 18:14:51.949474,Pix,Não informado
+415,Gabriela,Hipercalórico,Black Skull,94.28,3.0,2024-11-20 18:14:51.949486,Não informado,Loja 2
+416,Juliana,Barra Proteica,Black Skull,226.18,2.0,2025-07-17 18:14:51.949498,Não informado,Filial A
+417,Fernanda,Hipercalórico,Probiótica,204.11,3.0,2025-08-09 18:14:51.949509,Cartão,Loja 1
+418,Camila,Barra Proteica,Integralmedica,115.36,2.0,2025-05-06 18:14:51.949521,Cartao,Filial A
+420,Rodrigo,Whey Protein,Atlhetica Nutrition,222.75,3.0,2025-01-02 18:14:51.949544,Cartao,Loja 2
+421,Rafael,Barra Proteica,Optimum Nutrition,211.23,1.0,2025-05-19 18:14:51.949557,Não informado,Filial A
+422,João,Glutamina,Probiótica,124.2,2.0,2025-06-24 18:14:51.949570,Dinheiro,Loja 2
+423,Ana,Pré-Treino,Integralmedica,110.25,2.0,2025-01-14 18:14:51.949583,Cartao,Loja 1
+424,Ana,Omega 3,Atlhetica Nutrition,106.12,2.0,2024-10-30 18:14:51.949606,Cartao,Não informado
+425,Camila,Glutamina,Growth,95.68,1.0,2025-07-08 18:14:51.949621,Não informado,Filial A
+426,Bruna,Hipercalórico,Atlhetica Nutrition,89.79,2.0,2025-09-25 18:14:51.949636,Dinheiro,Filial A
+427,Bruna,Barra Proteica,Growth,143.69,2.0,2025-02-08 18:14:51.949657,Cartão,Não informado
+428,Rodrigo,Hipercalórico,Midway,199.68,2.0,2025-09-01 18:14:51.949671,Dinheiro,Loja 2
+430,Carlos,Multivitamínico,Integralmedica,212.86,3.0,2024-10-26 18:14:51.949695,Cartao,Loja 1
+431,Rodrigo,Multivitamínico,Atlhetica Nutrition,216.48,3.0,2025-09-04 18:14:51.949712,Não informado,Loja 2
+432,Fernanda,Multivitamínico,Integralmedica,81.11,3.0,2025-03-16 18:14:51.949729,Não informado,Filial A
+433,Paulo,Glutamina,Integralmedica,140.27,2.0,2025-06-26 18:14:51.949743,Cartão,Loja 1
+434,Ana,Creatina,Growth,133.19,1.0,2025-02-09 18:14:51.949755,Cartao,Filial A
+435,Paulo,Whey Protein,Midway,173.45,3.0,2025-08-04 18:14:51.949765,Dinheiro,Loja 2
+436,Mariana,Multivitamínico,Probiótica,122.14,2.0,2025-07-01 18:14:51.949776,Pix,Filial A
+438,Fernanda,Barra Proteica,Black Skull,124.84,3.0,2025-08-24 18:14:51.949798,Pix,Loja 2
+439,Juliana,Multivitamínico,Integralmedica,239.53,2.0,2025-05-15 18:14:51.949809,Cartao,Não informado
+440,Rafael,BCAA,Integr@lmedic@,158.55,1.0,2024-10-30 18:14:51.949832,Dinheiro,Loja 2
+441,Lucas,Glutamina,Universal,201.49,2.0,2025-05-27 18:14:51.949846,Dinheiro,Não informado
+442,Mariana,Barra Proteica,Integr@lmedic@,101.84,3.0,2025-08-11 18:14:51.949858,Cartão,Loja 2
+443,Gabriela,Omega 3,Black Skull,221.11,2.0,2025-07-14 18:14:51.949869,Dinheiro,Loja 1
+444,Rafael,Glutamina,Max Titanium,158.69,3.0,2025-09-25 18:14:51.949881,Não informado,Loja 1
+445,Fernanda,Albumina,Universal,-217.36,2.0,2024-12-12 18:14:51.949892,Cartao,Não informado
+446,Gabriela,Omega 3,BodyAction,130.35,3.0,2025-07-31 18:14:51.949903,Dinheiro,Loja 2
+447,Patrícia,BCAA,Universal,53.42,2.0,2025-07-08 18:14:51.949914,Não informado,Loja 2
+448,Juliana,Creatina,BodyAction,223.17,2.0,2025-07-13 18:14:51.949926,Cartao,Filial A
+449,Lucas,Omega 3,Probiótica,225.04,2.0,2024-10-12 18:14:51.949937,Cartão,Loja 1
+450,Ana,Albumina,BodyAction,69.27,2.0,2025-06-30 18:14:51.949949,Não informado,Loja 2
+451,Fernanda,Whey Protein,Integralmedica,182.0,1.0,2025-02-11 18:14:51.949962,Cartao,Loja 2
+452,Rodrigo,Multivitamínico,Probiótica,226.4,2.0,2025-06-12 18:14:51.949976,Cartao,Loja 1
+453,Fernanda,Albumina,BodyAction,85.41,3.0,32/13/2023,Cartão,Loja 2
+454,Mariana,Omega 3,Probiótica,219.83,2.0,2025-02-05 18:14:51.950001,Cartão,Não informado
+455,Rafael,Whey Protein,Optimum Nutrition,175.83,1.0,2024-11-08 18:14:51.950015,Não informado,Loja 1
+456,Rodrigo,Glutamina,Integralmedica,142.13,2.0,2024-12-07 18:14:51.950027,Dinheiro,Filial A
+457,Rafael,Multivitamínico,Integralmedica,214.4,3.0,2024-12-09 18:14:51.950040,Dinheiro,Filial A
+458,Diego,Pré-Treino,Midway,170.47,1.0,2025-02-14 18:14:51.950059,Dinheiro,Loja 1
+459,Diego,Glutamina,Midway,62.59,2.0,2025-09-18 18:14:51.950073,Não informado,Não informado
+460,Patrícia,Multivitamínico,Midway,240.72,3.0,2025-08-03 18:14:51.950086,Dinheiro,Filial A
+461,Rodrigo,Multivitamínico,Probiótica,71.36,1.0,2025-05-17 18:14:51.950099,Cartão,Loja 2
+462,Gabriela,Omega 3,Atlhetica Nutrition,56.28,1.0,2025-03-10 18:14:51.950106,Não informado,Loja 1
+463,Ana,Omega 3,Black Skull,161.26,1.0,2025-04-14 18:14:51.950115,Não informado,Loja 2
+464,Lucas,Barra Proteica,Max Titanium,52.91,3.0,32/13/2023,Dinheiro,Loja 1
+465,Gabriela,Albumina,Universal,121.18,3.0,2025-03-15 18:14:51.950130,Não informado,Filial A
+466,Juliana,Barra Proteica,BodyAction,139.77,1.0,2024-10-30 18:14:51.950138,Cartao,Loja 2
+467,Bruna,whey protein,Probiótica,96.19,3.0,2025-07-24 18:14:51.950146,Cartão,Não informado
+468,Diego,Glutamina,BodyAction,82.97,2.0,2025-08-01 18:14:51.950153,Pix,Não informado
+469,Rodrigo,Multivitamínico,Integralmedica,51.58,3.0,2025-02-16 18:14:51.950160,Pix,Não informado
+470,Patrícia,Multivitamínico,Black Skull,170.16,2.0,2025-06-03 18:14:51.950167,Pix,Loja 1
+471,Diego,Creatina,Atlhetica Nutrition,229.89,2.0,2025-07-26 18:14:51.950194,Cartão,Loja 1
+472,Camila,Multivitamínico,Integralmedica,204.48,2.0,2024-11-17 18:14:51.950207,Pix,Filial A
+473,Fernanda,Albumina,Black Skull,221.84,3.0,2025-01-22 18:14:51.950219,Cartão,Não informado
+474,Carlos,Whey Protein,Growth,140.82,3.0,2024-11-07 18:14:51.950232,Dinheiro,Filial A
+475,Diego,Omega 3,Black Skull,121.28,2.0,2025-06-19 18:14:51.950245,Não informado,Loja 2
+476,Ana,Albumina,Growth,66.63,2.0,2024-11-04 18:14:51.950257,Não informado,Loja 2
+477,Bruna,Whey Protein,Integralmedica,84.82,3.0,2024-12-19 18:14:51.950269,Pix,Loja 1
+478,Rafael,BCAA,Universal,195.79,1.0,2025-08-09 18:14:51.950281,Cartão,Filial A
+479,Bruna,Multivitamínico,Universal,125.78,1.0,2025-04-24 18:14:51.950293,Cartao,Loja 2
+480,Lucas,Barra Proteica,Universal,167.51,2.0,2025-09-11 18:14:51.950300,Não informado,Filial A
+481,Diego,Pré-Treino,Probiótica,69.04,3.0,2025-05-05 18:14:51.950307,Pix,Não informado
+482,Patrícia,Omega 3,Midway,162.21,2.0,2025-04-14 18:14:51.950315,Não informado,Filial A
+483,Juliana,Omega 3,Max Titanium,138.22,1.0,2025-07-21 18:14:51.950322,Não informado,Loja 2
+484,Gabriela,Barra Proteica,Max Titanium,155.82,3.0,2025-08-10 18:14:51.950331,Dinheiro,Não informado
+485,Diego,BCAA,BodyAction,55.94,2.0,2024-12-29 18:14:51.950343,Cartão,Loja 2
+486,Lucas,Multivitamínico,Atlhetica Nutrition,208.99,2.0,2025-08-07 18:14:51.950356,Não informado,Loja 1
+487,Rafael,Albumina,Universal,67.89,1.0,2025-02-04 18:14:51.950371,Cartão,Filial A
+489,Carlos,Pré-Treino,Growth,70.21,3.0,2025-04-15 18:14:51.950397,Dinheiro,Filial A
+490,João,Multivitamínico,Atlhetica Nutrition,91.13,2.0,2025-08-20 18:14:51.950414,Pix,Não informado
+492,Gabriela,Pré-Treino,Universal,87.19,1.0,2025-03-19 18:14:51.950429,Cartao,Loja 1
+493,Gabriela,BCAA,Optimum Nutrition,158.94,2.0,32/13/2023,Dinheiro,Filial A
+494,Mariana,Omega 3,Black Skull,56.99,2.0,2025-04-17 18:14:51.950444,Dinheiro,Filial A
+495,Fernanda,Glutamina,Atlhetica Nutrition,159.37,1.0,2025-05-17 18:14:51.950453,Cartao,Loja 2
+496,Bruna,BCAA,Max Titanium,73.21,3.0,2025-06-13 18:14:51.950461,Não informado,Não informado
+497,Lucas,Whey Protein,Midway,84.74,3.0,2024-11-19 18:14:51.950469,Pix,Filial A
+498,Juliana,Albumina,Atlhetica Nutrition,148.19,1.0,2024-11-05 18:14:51.950476,Não informado,Loja 1
+499,Juliana,Creatina,Black Skull,111.01,1.0,2025-01-13 18:14:51.950484,Não informado,Não informado
+500,Diego,Albumina,Probiótica,52.78,1.0,32/13/2023,Cartão,Filial A
+501,João,Omega 3,Growth,102.9,2.0,2025-05-18 18:14:51.950499,Dinheiro,Loja 2
+502,Camila,Creatina,Atlhetica Nutrition,-105.9,2.0,2024-10-11 18:14:51.950507,Pix,Loja 1
+503,Lucas,Pré-Treino,Probiótica,146.54,2.0,2024-11-09 18:14:51.950514,Dinheiro,Filial A
+504,Fernanda,multivitamínico,BodyAction,223.11,2.0,2025-03-22 18:14:51.950522,Cartao,Filial A
+506,Diego,Whey Protein,Integralmedica,56.36,2.0,2025-03-01 18:14:51.950538,Cartão,Filial A
+507,João,Hipercalórico,Growth,61.99,1.0,2025-09-16 18:14:51.950545,Dinheiro,Não informado
+508,Carlos,Pré-Treino,Optimum Nutrition,212.6,2.0,2025-08-22 18:14:51.950552,Cartao,Loja 2
+509,Mariana,creatina,Atlhetica Nutrition,131.5,2.0,2024-12-23 18:14:51.950559,Cartão,Não informado
+510,Rodrigo,Whey Protein,Universal,201.92,2.0,2025-06-27 18:14:51.950567,Cartão,Não informado
+511,Ana,BCAA,Midway,232.77,2.0,2025-05-13 18:14:51.950576,Cartao,Não informado
+513,Gabriela,BCAA,Atlhetica Nutrition,76.28,3.0,2024-12-29 18:14:51.950600,Cartão,Loja 2
+514,Juliana,Hipercalórico,Black Skull,101.06,2.0,2025-07-27 18:14:51.950608,Cartao,Loja 1
+515,Camila,Whey Protein,Optimum Nutrition,214.17,2.0,2024-12-14 18:14:51.950615,Cartão,Não informado
+516,Patrícia,Barra Proteica,Universal,195.22,2.0,2025-03-12 18:14:51.950623,Dinheiro,Loja 2
+517,Juliana,Albumina,Black Skull,57.81,2.0,2025-04-19 18:14:51.950631,Dinheiro,Loja 2
+518,Paulo,Whey Protein,Probiótica,-79.68,1.0,2025-06-15 18:14:51.950638,Cartão,Loja 1
+519,Ana,Whey Protein,Black Skull,168.75,2.0,2025-01-06 18:14:51.950645,Não informado,Loja 1
+520,Carlos,Glutamina,Growth,163.54,2.0,2025-07-20 18:14:51.950652,Dinheiro,Não informado
+521,Paulo,Barra Proteica,Midway,127.64,3.0,2024-12-25 18:14:51.950659,Cartão,Não informado
+522,Diego,Glutamina,Growth,153.01,1.0,2025-08-11 18:14:51.950668,Dinheiro,Não informado
+523,Carlos,Creatina,Max Titanium,101.83,3.0,2025-07-15 18:14:51.950675,Dinheiro,Filial A
+524,Juliana,Whey Protein,Probiótica,125.01,3.0,2024-12-06 18:14:51.950683,Pix,Não informado
+525,Bruna,Multivitamínico,Growth,53.21,1.0,2024-10-12 18:14:51.950690,Dinheiro,Loja 2
+526,Fernanda,Multivitamínico,Growth,156.18,2.0,2025-05-18 18:14:51.950697,Dinheiro,Não informado
+527,João,Albumina,Black Skull,-140.89,2.0,2024-11-16 18:14:51.950704,Não informado,Loja 2
+528,Fernanda,Albumina,Universal,244.91,2.0,2024-10-24 18:14:51.950711,Cartao,Loja 1
+529,Camila,Whey Protein,Probiótica,67.05,2.0,32/13/2023,Dinheiro,Loja 2
+530,Camila,BCAA,Universal,230.89,1.0,2025-01-18 18:14:51.950726,Cartao,Filial A
+531,João,Glutamina,Black Skull,133.79,2.0,2025-09-17 18:14:51.950734,Cartão,Filial A
+532,João,Whey Protein,Probiótica,101.89,1.0,2025-01-21 18:14:51.950742,Não informado,Loja 2
+533,Mariana,Albumina,Integralmedica,-140.61,2.0,2024-10-04 18:14:51.950749,Pix,Não informado
+534,Mariana,BCAA,Midway,159.16,3.0,2025-01-30 18:14:51.950756,Cartão,Loja 2
+535,Lucas,Whey Protein,Growth,110.66,2.0,2025-07-27 18:14:51.950763,Pix,Loja 2
+536,Patrícia,Whey Protein,Universal,117.26,3.0,2025-07-08 18:14:51.950771,Não informado,Loja 2
+537,Ana,Hipercalórico,Black Skull,184.12,1.0,2025-01-01 18:14:51.950778,Dinheiro,Loja 1
+538,Rodrigo,Hipercalórico,Midway,211.26,3.0,2024-12-03 18:14:51.950787,Não informado,Loja 1
+539,Bruna,Hipercalórico,Atlhetica Nutrition,86.35,3.0,2025-06-21 18:14:51.950802,Pix,Loja 1
+541,Ana,Whey Protein,Probiótica,174.58,2.0,2025-08-15 18:14:51.950825,Cartão,Loja 1
+542,João,Glutamina,Max Titanium,69.78,2.0,2025-09-06 18:14:51.950833,Cartão,Não informado
+543,Camila,BCAA,Midway,101.67,2.0,2025-01-04 18:14:51.950840,Pix,Loja 1
+544,Gabriela,Creatina,Atlhetica Nutrition,54.53,2.0,2025-01-05 18:14:51.950848,Cartao,Loja 2
+545,Juliana,Multivitamínico,Probiótica,55.5,2.0,2025-07-12 18:14:51.950855,Dinheiro,Não informado
+546,Patrícia,Multivitamínico,Probiótica,225.66,1.0,2025-06-28 18:14:51.950863,Não informado,Loja 1
+547,Gabriela,Omega 3,BodyAction,223.63,2.0,2025-03-11 18:14:51.950871,Dinheiro,Loja 1
+548,Bruna,barra proteica,Midway,141.18,2.0,2025-02-15 18:14:51.950879,Pix,Loja 1
+549,Bruna,Barra Proteica,Atlhetica Nutrition,67.89,2.0,2025-04-30 18:14:51.950888,Cartao,Loja 1
+550,Ana,Multivitamínico,Atlhetic@ Nutrition,154.54,3.0,2025-06-13 18:14:51.950896,Cartão,Loja 2
+552,Mariana,Creatina,Optimum Nutrition,247.83,2.0,2025-06-03 18:14:51.950911,Não informado,Filial A
+553,João,Glutamina,Atlhetic@ Nutrition,232.42,2.0,2025-01-21 18:14:51.950918,Não informado,Não informado
+554,Rodrigo,Creatina,Atlhetica Nutrition,77.36,2.0,2025-04-14 18:14:51.950925,Dinheiro,Loja 2
+555,Lucas,Albumina,Max Titanium,-237.78,2.0,2025-07-09 18:14:51.950933,Cartao,Loja 1
+556,Mariana,Glutamina,Atlhetica Nutrition,78.27,1.0,2025-02-06 18:14:51.950940,Não informado,Não informado
+557,Carlos,Albumina,Optimum Nutrition,182.92,2.0,2025-04-20 18:14:51.950947,Dinheiro,Loja 1
+558,Juliana,BCAA,Max Titanium,141.8,2.0,2024-12-15 18:14:51.950954,Pix,Não informado
+559,Gabriela,Omega 3,Optimum Nutrition,59.14,1.0,2025-02-13 18:14:51.950961,Cartao,Loja 2
+560,Mariana,Multivitamínico,Probiótica,234.17,3.0,2024-11-24 18:14:51.950968,Não informado,Não informado
+561,Paulo,Omega 3,Universal,153.4,2.0,2025-07-01 18:14:51.950977,Pix,Filial A
+562,Juliana,Pré-Treino,Growth,78.96,1.0,2025-04-15 18:14:51.950984,Cartao,Não informado
+563,Patrícia,Whey Protein,Atlhetica Nutrition,169.08,3.0,2025-05-22 18:14:51.950991,Cartão,Loja 1
+564,João,Omega 3,Optimum Nutrition,141.09,2.0,2025-07-01 18:14:51.950998,Dinheiro,Não informado
+565,Carlos,Creatina,Atlhetica Nutrition,243.74,3.0,2025-07-11 18:14:51.951005,Não informado,Filial A
+566,Carlos,Glutamina,Midway,70.71,2.0,2024-12-04 18:14:51.951012,Dinheiro,Loja 2
+568,Rodrigo,Creatina,Growth,234.77,3.0,32/13/2023,Cartão,Filial A
+569,Lucas,Pré-Treino,Optimum Nutrition,94.78,2.0,2024-12-15 18:14:51.951034,Cartao,Não informado
+570,João,omega 3,Midw@y,102.02,3.0,2025-08-05 18:14:51.951042,Dinheiro,Loja 2
+571,Mariana,Multivitamínico,Optimum Nutrition,164.52,1.0,2025-04-30 18:14:51.951049,Não informado,Não informado
+572,Ana,BCAA,Optimum Nutrition,222.6,2.0,2024-12-02 18:14:51.951056,Não informado,Filial A
+573,Ana,Multivitamínico,BodyAction,149.03,1.0,32/13/2023,Cartão,Loja 1
+574,Lucas,BCAA,Max Titanium,226.42,2.0,2025-05-20 18:14:51.951071,Cartão,Loja 2
+575,Mariana,BCAA,Probiótica,63.45,3.0,2025-04-06 18:14:51.951082,Cartão,Loja 1
+576,Lucas,Pré-Treino,Growth,160.88,2.0,2024-11-14 18:14:51.951095,Dinheiro,Loja 2
+577,Camila,BCAA,Integralmedica,55.33,2.0,2025-07-29 18:14:51.951106,Pix,Filial A
+578,Carlos,BCAA,Atlhetica Nutrition,172.35,1.0,2025-07-18 18:14:51.951120,Cartao,Não informado
+579,João,Creatina,Atlhetica,86.45,1.0,2024-12-14 18:14:51.951130,Cartao,Filial A
+580,Lucas,Creatina,Optimum Nutrition,96.42,3.0,2025-01-30 18:14:51.951138,Não informado,Não informado
+581,Patrícia,Hipercalórico,Growth,-203.29,2.0,2024-10-27 18:14:51.951145,Não informado,Filial A
+582,Rafael,BCAA,Max Titanium,120.93,2.0,2025-08-09 18:14:51.951153,Cartão,Filial A
+583,João,Whey Protein,Midway,244.76,2.0,2025-07-13 18:14:51.951161,Não informado,Loja 2
+584,Paulo,Glutamina,BodyAction,243.83,2.0,2025-09-08 18:14:51.951168,Cartao,Loja 2
+585,João,Pré-Treino,BodyAction,238.55,3.0,2025-02-20 18:14:51.951175,Não informado,Filial A
+586,Gabriela,Omega 3,BodyAction,244.53,2.0,2025-07-22 18:14:51.951183,Dinheiro,Loja 1
+587,Paulo,Omega 3,Midway,222.45,3.0,2025-08-19 18:14:51.951190,Cartao,Loja 2
+588,Fernanda,BCAA,Growth,209.16,3.0,2025-02-13 18:14:51.951198,Cartao,Loja 2
+589,Lucas,Glutamina,Max Titanium,234.41,2.0,32/13/2023,Cartão,Não informado
+591,Carlos,Multivitamínico,Growth,202.05,2.0,2024-12-28 18:14:51.951220,Dinheiro,Loja 2
+593,Bruna,Creatina,Growth,106.28,3.0,32/13/2023,Pix,Loja 2
+594,Diego,BCAA,Optimum Nutrition,184.66,2.0,2025-03-03 18:14:51.951495,Não informado,Filial A
+595,Patrícia,Creatina,Probiótica,213.43,2.0,2025-06-30 18:14:51.951520,Cartao,Filial A
+596,Diego,Hipercalórico,Universal,108.46,2.0,2025-05-10 18:14:51.951529,Cartão,Não informado
+597,Rafael,Albumina,Growth,173.1,2.0,2025-09-08 18:14:51.951537,Pix,Loja 2
+598,Diego,Glutamina,Optimum Nutrition,117.05,3.0,2025-02-12 18:14:51.951545,Cartão,Loja 2
+599,Rafael,Glutamina,Probiótica,163.56,2.0,2025-01-08 18:14:51.951553,Pix,Loja 1
+601,Juliana,Barra Proteica,Growth,102.37,2.0,2025-08-12 18:14:51.951568,Cartao,Filial A
+602,Patrícia,Pré-Treino,Universal,242.6,2.0,2025-02-02 18:14:51.951576,Cartao,Loja 2
+603,Bruna,Omega 3,Max Titanium,153.89,1.0,2025-08-30 18:14:51.951585,Cartao,Loja 2
+604,Lucas,creatina,Atlhetic@ Nutrition,-162.42,3.0,2025-03-03 18:14:51.951595,Cartao,Loja 1
+605,Rafael,Whey Protein,Black Skull,55.41,2.0,2025-09-18 18:14:51.951605,Cartao,Loja 1
+606,Fernanda,BCAA,Universal,106.24,2.0,2025-01-10 18:14:51.951612,Não informado,Não informado
+607,Rafael,Pré-Treino,Midway,91.05,2.0,2024-10-08 18:14:51.951620,Não informado,Não informado
+608,Bruna,Whey Protein,Atlhetica Nutrition,164.2,2.0,2025-08-30 18:14:51.951628,Não informado,Não informado
+609,Juliana,Creatina,Optimum Nutrition,62.24,1.0,2025-01-30 18:14:51.951637,Não informado,Loja 2
+610,Juliana,Omega 3,Midway,162.37,2.0,2025-06-02 18:14:51.951644,Cartao,Loja 1
+611,Fernanda,Hipercalórico,Black Skull,91.25,2.0,2025-08-16 18:14:51.951652,Dinheiro,Filial A
+612,Patrícia,Barra Proteica,Atlhetica Nutrition,55.36,3.0,2024-12-28 18:14:51.951660,Cartão,Filial A
+613,Patrícia,Barra Proteica,Black Skull,105.59,2.0,2024-10-09 18:14:51.951674,Cartão,Não informado
+614,Paulo,Omega 3,Growth,182.66,1.0,2025-08-08 18:14:51.951688,Pix,Loja 2
+616,Fernanda,omega 3,Max Titanium,170.13,3.0,2025-04-29 18:14:51.951714,Pix,Loja 1
+617,Gabriela,Whey Protein,Midway,179.37,2.0,2025-02-27 18:14:51.951724,Cartao,Loja 1
+618,Paulo,Barra Proteica,Max Titanium,-53.11,1.0,2025-05-30 18:14:51.951737,Cartao,Loja 1
+619,Gabriela,BCAA,Black Skull,126.3,3.0,2025-01-05 18:14:51.951749,Cartao,Loja 1
+620,Carlos,bcaa,Integralmedica,-131.56,2.0,2025-07-12 18:14:51.951756,Cartao,Filial A
+621,João,Whey Protein,Midway,61.76,2.0,2025-09-29 18:14:51.951764,Pix,Loja 2
+622,Bruna,Albumina,Bl@ck Skull,134.98,2.0,2024-12-31 18:14:51.951771,Pix,Filial A
+623,Gabriela,Whey Protein,Black Skull,73.77,2.0,2025-05-25 18:14:51.951781,Pix,Não informado
+624,Bruna,BCAA,Probiótica,170.86,3.0,2024-12-04 18:14:51.951793,Pix,Filial A
+625,Lucas,Multivitamínico,Integralmedica,170.97,2.0,2024-12-15 18:14:51.951804,Cartão,Não informado
+626,Bruna,Hipercalórico,Midway,125.39,2.0,2024-12-02 18:14:51.951814,Não informado,Loja 2
+627,João,Albumina,Universal,172.18,1.0,2025-04-28 18:14:51.951821,Pix,Loja 2
+628,Ana,Omega 3,Midway,155.58,1.0,2025-07-12 18:14:51.951828,Cartao,Loja 1
+629,Ana,Whey Protein,Growth,129.78,1.0,2025-04-26 18:14:51.951836,Dinheiro,Loja 1
+631,Gabriela,Albumina,Integralmedica,-109.37,2.0,2025-09-01 18:14:51.951852,Dinheiro,Filial A
+632,Rodrigo,pré-treino,Universal,238.66,2.0,2024-12-12 18:14:51.951860,Não informado,Loja 1
+633,Gabriela,Albumina,Growth,237.05,1.0,2025-01-03 18:14:51.951868,Pix,Não informado
+635,Carlos,Whey Protein,Probiótica,119.92,2.0,2024-12-09 18:14:51.951883,Dinheiro,Loja 1
+636,Mariana,Albumina,Midway,146.86,2.0,2025-04-30 18:14:51.951890,Pix,Filial A
+638,Bruna,Albumina,Max Titanium,187.61,1.0,2025-01-25 18:14:51.951911,Dinheiro,Filial A
+639,Carlos,Glutamina,Bl@ck Skull,-120.8,1.0,2025-08-12 18:14:51.951924,Cartao,Filial A
+640,Patrícia,Barra Proteica,Midway,148.38,2.0,2025-09-24 18:14:51.951933,Cartão,Filial A
+641,Rafael,Glutamina,Growth,192.37,2.0,32/13/2023,Dinheiro,Não informado
+642,Bruna,BCAA,Growth,160.94,1.0,2024-10-27 18:14:51.951949,Não informado,Loja 1
+643,Mariana,Hipercalórico,Atlhetica Nutrition,137.47,2.0,2025-04-07 18:14:51.951956,Dinheiro,Loja 2
+644,Ana,Pré-Treino,Black Skull,60.68,1.0,2025-01-14 18:14:51.951963,Não informado,Não informado
+645,Ana,Barra Proteica,Max Titanium,194.58,3.0,2025-06-08 18:14:51.951970,Dinheiro,Loja 2
+646,Juliana,Hipercalórico,BodyAction,82.6,1.0,2025-08-03 18:14:51.951980,Cartao,Loja 1
+647,Patrícia,Multivitamínico,Integralmedica,-144.08,3.0,2025-03-27 18:14:51.951994,Pix,Não informado
+648,Paulo,Whey Protein,Integralmedica,200.14,3.0,2025-05-28 18:14:51.952007,Cartao,Não informado
+649,Juliana,Hipercalórico,Universal,-125.19,1.0,2025-07-21 18:14:51.952021,Cartão,Filial A
+650,Ana,BCAA,Optimum Nutrition,59.68,2.0,32/13/2023,Cartao,Loja 2
+651,Bruna,Whey Protein,BodyAction,-103.2,1.0,2025-09-24 18:14:51.952038,Não informado,Loja 1
+652,Lucas,Creatina,Probiótica,171.66,2.0,2025-03-24 18:14:51.952046,Não informado,Filial A
+653,João,Creatina,Univers@l,58.6,2.0,2025-05-01 18:14:51.952054,Pix,Filial A
+654,Gabriela,Barra Proteica,Black Skull,107.06,1.0,32/13/2023,Não informado,Loja 1
+655,Paulo,Omega 3,Atlhetica Nutrition,106.6,2.0,2025-07-06 18:14:51.952069,Pix,Loja 2
+656,Carlos,Multivitamínico,Universal,70.51,2.0,2025-09-14 18:14:51.952077,Pix,Não informado
+657,Rodrigo,BCAA,Univers@l,62.58,2.0,2025-03-22 18:14:51.952084,Cartão,Loja 1
+658,Diego,Pré-Treino,Max Titanium,60.79,3.0,2025-07-25 18:14:51.952092,Pix,Loja 1
+659,João,Pré-Treino,Midway,196.38,2.0,2025-04-19 18:14:51.952103,Cartao,Loja 1
+660,Rafael,Multivitamínico,Max Titanium,156.3,3.0,2025-03-06 18:14:51.952131,Cartao,Filial A
+661,Bruna,Creatina,Atlhetica Nutrition,161.91,3.0,2024-10-13 18:14:51.952139,Dinheiro,Loja 2
+662,Paulo,Multivitamínico,Max Titanium,178.48,3.0,2025-02-20 18:14:51.952147,Dinheiro,Loja 2
+663,Rodrigo,BCAA,Optimum Nutrition,249.66,2.0,2024-12-16 18:14:51.952155,Pix,Loja 2
+664,Juliana,BCAA,Optimum Nutrition,101.66,2.0,2025-06-07 18:14:51.952162,Pix,Loja 2
+665,Ana,BCAA,Midway,134.66,2.0,2025-01-08 18:14:51.952170,Dinheiro,Loja 2
+666,Patrícia,Multivitamínico,BodyAction,146.65,3.0,2025-05-15 18:14:51.952178,Dinheiro,Não informado
+667,Ana,Multivitamínico,Midway,-74.86,3.0,2025-05-27 18:14:51.952185,Dinheiro,Loja 2
+668,Juliana,Hipercalórico,Integralmedica,93.67,1.0,2025-03-10 18:14:51.952193,Pix,Não informado
+669,Ana,multivitamínico,Growth,112.64,2.0,2024-11-11 18:14:51.952201,Cartão,Não informado
+670,Juliana,Glutamina,Optimum Nutrition,144.65,2.0,2025-02-09 18:14:51.952210,Pix,Loja 1
+672,Lucas,Multivitamínico,Midway,167.41,3.0,2024-11-27 18:14:51.952225,Pix,Não informado
+673,Ana,Barra Proteica,Atlhetic@ Nutrition,182.37,2.0,2025-05-01 18:14:51.952233,Dinheiro,Loja 2
+674,Lucas,Glutamina,Max Titanium,226.1,2.0,2025-08-07 18:14:51.952241,Pix,Filial A
+675,João,glutamina,Integralmedica,233.84,3.0,2025-01-18 18:14:51.952249,Dinheiro,Filial A
+676,Bruna,Multivitamínico,Max Titanium,231.8,2.0,2025-08-31 18:14:51.952257,Não informado,Filial A
+677,Carlos,Hipercalórico,Max Titanium,165.11,3.0,32/13/2023,Pix,Não informado
+678,Gabriela,Multivitamínico,Universal,50.74,2.0,2025-06-18 18:14:51.952272,Cartão,Loja 1
+679,Rodrigo,Omega 3,Universal,133.74,2.0,2024-10-14 18:14:51.952280,Pix,Filial A
+680,Diego,Omega 3,Atlhetica Nutrition,84.43,1.0,2025-09-03 18:14:51.952288,Cartao,Filial A
+681,Fernanda,Hipercalórico,Black Skull,120.58,3.0,2025-04-28 18:14:51.952295,Não informado,Não informado
+682,Camila,glutamina,Probiótica,135.16,3.0,2025-02-01 18:14:51.952303,Cartão,Não informado
+683,Ana,Pré-Treino,Midway,92.43,2.0,2025-09-06 18:14:51.952310,Pix,Loja 1
+684,Fernanda,Barra Proteica,Midway,103.82,2.0,2024-11-07 18:14:51.952317,Não informado,Não informado
+685,Lucas,Multivitamínico,Midway,248.01,3.0,2025-03-14 18:14:51.952327,Não informado,Loja 1
+686,Patrícia,Albumina,Atlhetica Nutrition,109.83,3.0,2025-01-17 18:14:51.952339,Dinheiro,Filial A
+687,Gabriela,Whey Protein,BodyAction,83.72,1.0,2025-06-02 18:14:51.952353,Pix,Loja 2
+688,Rafael,Omega 3,Growth,95.47,2.0,2025-01-31 18:14:51.952367,Cartao,Não informado
+689,Rafael,Barra Proteica,Black Skull,248.69,2.0,2025-09-28 18:14:51.952376,Dinheiro,Filial A
+690,Juliana,Omega 3,Black Skull,203.29,1.0,2024-11-04 18:14:51.952383,Não informado,Não informado
+691,Paulo,Barra Proteica,Universal,69.73,1.0,2025-03-17 18:14:51.952392,Não informado,Loja 2
+692,Gabriela,Creatina,BodyAction,158.18,2.0,2025-03-28 18:14:51.952400,Não informado,Filial A
+693,Bruna,Barra Proteica,Universal,78.88,1.0,2025-07-14 18:14:51.952407,Dinheiro,Não informado
+694,Gabriela,Barra Proteica,Universal,158.43,2.0,2024-12-21 18:14:51.952415,Cartao,Não informado
+695,Lucas,Albumina,Optimum Nutrition,154.97,1.0,2025-02-10 18:14:51.952422,Cartao,Loja 1
+696,Rafael,Barra Proteica,Growth,171.7,2.0,2024-12-22 18:14:51.952429,Pix,Não informado
+697,Bruna,Pré-Treino,Growth,168.74,1.0,2024-11-10 18:14:51.952440,Cartão,Loja 1
+698,Mariana,Barra Proteica,Universal,203.4,2.0,32/13/2023,Cartao,Não informado
+699,Paulo,barra proteica,Optimum Nutrition,167.9,2.0,2025-06-07 18:14:51.952463,Não informado,Não informado
+700,Gabriela,Glutamina,Growth,115.58,2.0,2025-06-24 18:14:51.952471,Cartao,Loja 1
+701,Juliana,Multivitamínico,Integralmedica,70.03,3.0,2025-02-16 18:14:51.952478,Cartão,Filial A
+702,Mariana,Creatina,Probiótica,58.94,2.0,2025-08-07 18:14:51.952486,Pix,Loja 1
+703,Patrícia,Multivitamínico,Max Titanium,208.66,2.0,2025-08-02 18:14:51.952493,Cartao,Loja 1
+704,Paulo,Whey Protein,Optimum Nutrition,78.42,3.0,2025-03-31 18:14:51.952500,Pix,Filial A
+705,Bruna,Multivitamínico,Probiótica,240.76,2.0,2025-06-10 18:14:51.952507,Não informado,Filial A
+706,Diego,Pré-Treino,Probiótica,123.21,2.0,2024-10-25 18:14:51.952515,Cartão,Não informado
+707,Fernanda,Pré-Treino,Max Titanium,110.86,2.0,2025-07-02 18:14:51.952523,Cartao,Filial A
+708,Carlos,Omega 3,BodyAction,239.35,2.0,2025-01-31 18:14:51.952530,Cartao,Loja 2
+709,Paulo,Creatina,Atlhetica Nutrition,147.41,1.0,2025-02-24 18:14:51.952538,Cartão,Filial A
+710,Ana,BCAA,Max Titanium,238.56,2.0,2025-04-29 18:14:51.952545,Cartao,Não informado
+711,Paulo,Whey Protein,BodyAction,55.17,2.0,2024-12-29 18:14:51.952553,Dinheiro,Loja 2
+712,Juliana,Whey Protein,Atlhetica Nutrition,179.16,1.0,2024-12-18 18:14:51.952561,Cartao,Não informado
+713,Diego,Multivitamínico,Universal,249.48,3.0,2025-07-02 18:14:51.952569,Cartão,Loja 2
+714,Juliana,BCAA,Probiótica,229.93,2.0,2024-12-20 18:14:51.952576,Cartao,Não informado
+715,Rafael,Barra Proteica,Optimum Nutrition,105.22,1.0,2024-11-18 18:14:51.952583,Dinheiro,Filial A
+716,Carlos,Multivitamínico,Atlhetica Nutrition,125.38,2.0,2025-01-22 18:14:51.952591,Cartao,Loja 2
+717,Carlos,Barra Proteica,Universal,201.59,2.0,2025-03-21 18:14:51.952598,Pix,Loja 1
+718,Patrícia,barra proteica,BodyAction,116.9,2.0,2025-05-14 18:14:51.952605,Pix,Não informado
+719,Diego,BCAA,Probiótica,241.34,3.0,2025-03-20 18:14:51.952613,Cartão,Filial A
+720,Gabriela,Multivitamínico,Integralmedica,167.67,3.0,2025-06-12 18:14:51.952620,Cartão,Filial A
+721,Ana,Barra Proteica,Optimum Nutrition,60.35,1.0,2025-08-30 18:14:51.952628,Não informado,Não informado
+722,João,Creatina,Atlhetica Nutrition,146.28,1.0,2025-01-24 18:14:51.952635,Cartão,Não informado
+723,Carlos,Whey Protein,BodyAction,140.83,1.0,2025-07-18 18:14:51.952642,Não informado,Loja 2
+724,João,Creatina,Probiótic@,60.85,3.0,2024-11-02 18:14:51.952651,Pix,Loja 1
+725,Gabriela,Albumina,Black Skull,55.46,2.0,2025-04-21 18:14:51.952658,Pix,Loja 2
+726,Ana,Creatina,Probiótica,77.14,2.0,2025-04-19 18:14:51.952666,Não informado,Loja 2
+727,Mariana,bcaa,Growth,59.27,3.0,2024-12-30 18:14:51.952673,Dinheiro,Loja 1
+728,João,Pré-Treino,BodyAction,81.66,2.0,2024-10-17 18:14:51.952681,Dinheiro,Loja 2
+729,Patrícia,BCAA,Black Skull,102.74,3.0,2025-07-02 18:14:51.952688,Não informado,Filial A
+730,João,Hipercalórico,Optimum Nutrition,182.37,2.0,2024-11-15 18:14:51.952696,Dinheiro,Filial A
+731,Bruna,Creatina,Universal,162.54,2.0,2025-07-11 18:14:51.952704,Dinheiro,Loja 1
+732,Lucas,Hipercalórico,Optimum Nutrition,219.8,2.0,2025-05-14 18:14:51.952712,Cartao,Não informado
+733,Paulo,Albumina,BodyAction,75.46,3.0,2025-05-25 18:14:51.952720,Dinheiro,Não informado
+734,Diego,Barra Proteica,Optimum Nutrition,189.57,2.0,2025-04-17 18:14:51.952728,Pix,Não informado
+735,Fernanda,Albumina,Midw@y,157.68,2.0,2024-11-18 18:14:51.952736,Não informado,Loja 1
+736,Bruna,Creatina,BodyAction,181.16,2.0,32/13/2023,Dinheiro,Não informado
+737,Mariana,Hipercalórico,Growth,212.9,1.0,2024-12-19 18:14:51.952756,Cartao,Filial A
+738,Lucas,Pré-Treino,Black Skull,206.6,3.0,2025-07-18 18:14:51.952770,Dinheiro,Não informado
+739,Rodrigo,Glutamina,Probiótica,167.02,3.0,2025-09-24 18:14:51.952784,Não informado,Filial A
+740,Fernanda,Creatina,Universal,142.03,1.0,2025-03-03 18:14:51.952791,Não informado,Loja 2
+741,João,Albumina,Max Titanium,-204.67,2.0,2024-12-13 18:14:51.952799,Não informado,Loja 1
+742,Juliana,Creatina,Black Skull,146.41,3.0,2024-12-30 18:14:51.952806,Pix,Loja 1
+743,Rodrigo,Barra Proteica,Max Titanium,148.72,2.0,2025-05-24 18:14:51.952814,Cartão,Loja 1
+744,Bruna,Whey Protein,Midway,219.68,1.0,2025-07-14 18:14:51.952821,Cartao,Não informado
+745,Camila,Creatina,Growth,57.91,2.0,2025-05-20 18:14:51.952829,Pix,Filial A
+746,Fernanda,Glutamina,Probiótica,145.61,2.0,2024-12-01 18:14:51.952836,Não informado,Não informado
+747,Ana,Creatina,Max Titanium,206.54,1.0,2025-07-22 18:14:51.952843,Cartao,Loja 1
+748,Mariana,Omega 3,Black Skull,220.22,2.0,2024-10-08 18:14:51.952854,Não informado,Loja 2
+749,Bruna,Multivitamínico,Universal,97.77,2.0,2024-11-07 18:14:51.952866,Não informado,Loja 1
+750,Gabriela,Hipercalórico,Black Skull,-106.79,1.0,2025-04-11 18:14:51.952877,Cartão,Não informado
+751,Lucas,Hipercalórico,Max Titanium,83.44,2.0,2025-04-23 18:14:51.952887,Cartão,Loja 2
+752,Gabriela,Albumina,Max Titanium,190.96,3.0,2025-02-23 18:14:51.952898,Pix,Loja 2
+753,Ana,Whey Protein,Atlhetica Nutrition,130.38,3.0,2025-07-17 18:14:51.952911,Dinheiro,Não informado
+754,Gabriela,Creatina,Integralmedica,101.8,1.0,2025-08-18 18:14:51.952923,Pix,Loja 1
+755,Rodrigo,pré-treino,BodyAction,102.14,1.0,32/13/2023,Cartao,Não informado
+756,Fernanda,Barra Proteica,Max Titanium,131.53,1.0,2025-04-03 18:14:51.952952,Dinheiro,Loja 2
+758,Paulo,Omega 3,Max Titanium,73.09,3.0,2025-06-22 18:14:51.952977,Cartao,Loja 2
+759,Mariana,Omega 3,Growth,190.04,1.0,2024-11-27 18:14:51.952991,Não informado,Loja 2
+761,Camila,Glutamina,Optimum Nutrition,57.28,2.0,2025-09-18 18:14:51.953009,Pix,Não informado
+762,Camila,Omega 3,Probiótica,79.18,2.0,2025-05-24 18:14:51.953020,Dinheiro,Não informado
+763,Lucas,barra proteica,BodyAction,124.42,1.0,2024-12-25 18:14:51.953028,Dinheiro,Loja 1
+764,Rodrigo,Hipercalórico,Growth,171.55,2.0,2025-08-26 18:14:51.953035,Cartao,Filial A
+765,Bruna,Multivitamínico,Black Skull,113.67,2.0,2025-06-07 18:14:51.953042,Não informado,Loja 1
+767,Rodrigo,BCAA,Growth,78.17,1.0,2025-09-13 18:14:51.953967,Cartao,Loja 2
+768,Patrícia,Creatina,Universal,141.71,1.0,2025-03-17 18:14:51.953979,Cartao,Não informado
+769,Ana,BCAA,Growth,78.88,3.0,2025-03-30 18:14:51.953991,Dinheiro,Loja 1
+770,Rafael,Omega 3,Universal,77.96,1.0,2025-02-15 18:14:51.954004,Cartao,Filial A
+771,Mariana,Barra Proteica,Black Skull,85.37,2.0,2025-03-06 18:14:51.954015,Dinheiro,Não informado
+772,Rodrigo,Whey Protein,Atlhetica Nutrition,96.13,2.0,2024-12-31 18:14:51.954027,Pix,Loja 1
+773,Mariana,bcaa,Midw@y,92.33,2.0,2025-08-17 18:14:51.954041,Cartão,Loja 1
+774,Gabriela,Whey Protein,Atlhetica Nutrition,118.1,2.0,2025-08-28 18:14:51.954054,Pix,Filial A
+775,Lucas,glutamina,Midway,208.78,2.0,2025-07-22 18:14:51.954073,Cartão,Não informado
+776,Gabriela,Multivitamínico,Max Titanium,107.59,2.0,2025-07-31 18:14:51.954081,Pix,Loja 2
+777,Gabriela,Barra Proteica,Max Titanium,134.14,2.0,2025-07-01 18:14:51.954089,Cartao,Loja 1
+778,Mariana,Whey Protein,Max Titanium,60.99,1.0,2025-07-12 18:14:51.954096,Cartão,Loja 1
+779,Bruna,Multivitamínico,Optimum Nutrition,135.52,2.0,2024-10-14 18:14:51.954104,Não informado,Filial A
+780,Lucas,BCAA,BodyAction,94.13,2.0,2025-07-14 18:14:51.954111,Dinheiro,Loja 1
+781,Ana,Whey Protein,Atlhetica Nutrition,162.92,1.0,2025-06-15 18:14:51.954119,Cartao,Filial A
+782,Lucas,Omega 3,Probiótica,192.72,2.0,2024-10-15 18:14:51.954126,Pix,Loja 1
+783,Camila,Albumina,Integr@lmedic@,224.16,2.0,2024-10-06 18:14:51.954134,Pix,Loja 2
+784,Bruna,Multivitamínico,Atlhetica Nutrition,105.93,2.0,2025-01-22 18:14:51.954154,Pix,Não informado
+785,Rafael,Hipercalórico,Black Skull,81.95,3.0,2024-10-02 18:14:51.954162,Cartão,Loja 1
+786,Patrícia,Hipercalórico,Universal,126.62,2.0,2024-10-20 18:14:51.954264,Cartao,Loja 2
+787,Juliana,Multivitamínico,Integralmedica,54.36,3.0,2024-10-14 18:14:51.954274,Dinheiro,Loja 1
+788,Mariana,Barra Proteica,Atlhetica Nutrition,108.54,1.0,2025-05-06 18:14:51.954282,Cartao,Não informado
+789,Rodrigo,BCAA,Black Skull,96.04,3.0,2025-02-10 18:14:51.954290,Dinheiro,Loja 2
+790,João,Multivitamínico,Growth,62.81,2.0,2025-09-23 18:14:51.954299,Cartao,Loja 2
+792,Mariana,Hipercalórico,BodyAction,219.82,2.0,2024-10-11 18:14:51.954316,Cartao,Não informado
+793,Paulo,Creatina,Atlhetica Nutrition,228.13,1.0,2024-12-16 18:14:51.954324,Cartao,Filial A
+794,Lucas,Whey Protein,Black Skull,162.79,2.0,2024-10-30 18:14:51.954331,Cartão,Loja 1
+795,Carlos,Albumina,Atlhetica Nutrition,191.7,2.0,2025-01-04 18:14:51.954339,Não informado,Loja 1
+796,Patrícia,Glutamina,Growth,228.72,3.0,2025-06-24 18:14:51.954347,Cartão,Filial A
+797,Fernanda,Pré-Treino,Atlhetica Nutrition,52.4,3.0,2025-03-18 18:14:51.954355,Cartão,Não informado
+798,Rodrigo,Multivitamínico,Midw@y,181.41,2.0,2025-01-25 18:14:51.954364,Cartao,Loja 1
+799,Carlos,Albumina,BodyAction,144.0,2.0,2024-10-25 18:14:51.954372,Cartao,Loja 1
+800,Diego,Whey Protein,Atlhetica Nutrition,101.12,2.0,2025-04-04 18:14:51.954379,Cartao,Loja 2
+801,Fernanda,Albumina,Probiótica,82.62,2.0,2025-08-12 18:14:51.954387,Cartao,Filial A
+802,Fernanda,Whey Protein,Black Skull,-223.8,2.0,2025-09-26 18:14:51.954395,Não informado,Filial A
+803,João,BCAA,Optimum Nutrition,179.47,2.0,2025-03-24 18:14:51.954403,Cartão,Loja 2
+804,Rafael,BCAA,Black Skull,158.87,1.0,2024-12-29 18:14:51.954411,Cartao,Loja 2
+805,Camila,Whey Protein,Probiótica,146.76,1.0,2025-07-30 18:14:51.954418,Não informado,Filial A
+806,Mariana,Albumina,BodyAction,62.3,2.0,32/13/2023,Dinheiro,Filial A
+807,Mariana,Pré-Treino,Probiótica,181.73,2.0,2025-02-01 18:14:51.954433,Não informado,Não informado
+808,Camila,Creatina,Optimum Nutrition,119.97,2.0,32/13/2023,Não informado,Não informado
+809,Fernanda,Pré-Treino,Growth,237.23,2.0,2024-10-15 18:14:51.954449,Dinheiro,Não informado
+810,Lucas,Pré-Treino,Max Titanium,-174.75,2.0,2024-10-10 18:14:51.954456,Dinheiro,Não informado
+811,Ana,Creatina,Midway,199.04,2.0,2024-10-02 18:14:51.954463,Dinheiro,Não informado
+812,Ana,Whey Protein,Atlhetica Nutrition,218.94,2.0,2025-06-09 18:14:51.954470,Não informado,Loja 2
+813,Rafael,Multivitamínico,Max Titanium,213.64,2.0,2024-11-09 18:14:51.954477,Pix,Loja 2
+814,Juliana,bcaa,Optimum Nutrition,122.97,2.0,2024-12-28 18:14:51.954485,Não informado,Loja 2
+815,Paulo,Multivitamínico,Growth,-181.57,1.0,2025-08-16 18:14:51.954493,Cartao,Loja 1
+816,Rafael,Creatina,Atlhetica Nutrition,72.91,1.0,2024-11-03 18:14:51.954500,Dinheiro,Loja 2
+817,Rafael,Hipercalórico,Universal,212.36,2.0,2025-09-10 18:14:51.954507,Não informado,Loja 2
+818,Carlos,Omega 3,Growth,243.44,2.0,2025-04-11 18:14:51.954515,Pix,Loja 1
+819,Rafael,Omega 3,Integralmedica,59.87,2.0,2025-02-28 18:14:51.954522,Dinheiro,Não informado
+820,Bruna,BCAA,BodyAction,184.88,2.0,2024-12-11 18:14:51.954596,Cartao,Filial A
+821,Juliana,Multivitamínico,Probiótica,57.27,2.0,2024-10-19 18:14:51.954609,Dinheiro,Loja 1
+822,Rodrigo,Barra Proteica,Midway,68.93,3.0,2025-07-20 18:14:51.954729,Não informado,Loja 2
+823,Diego,Hipercalórico,Growth,135.43,2.0,2025-01-19 18:14:51.954753,Dinheiro,Loja 2
+824,Bruna,Pré-Treino,Atlhetic@ Nutrition,205.19,2.0,2025-07-03 18:14:51.954768,Dinheiro,Não informado
+825,Bruna,Hipercalórico,BodyAction,178.72,3.0,2025-07-05 18:14:51.954777,Não informado,Loja 1
+826,Diego,Glutamina,Atlhetica Nutrition,174.5,3.0,2024-11-25 18:14:51.954784,Cartao,Filial A
+827,Ana,Omega 3,Atlhetica Nutrition,234.86,3.0,2025-07-28 18:14:51.954792,Cartão,Não informado
+828,Rafael,Multivitamínico,Max Titanium,222.59,1.0,2024-12-30 18:14:51.954800,Cartão,Loja 1
+830,Gabriela,Multivitamínico,Growth,70.34,1.0,2025-08-28 18:14:51.954816,Cartao,Loja 1
+831,Diego,Glutamina,Growth,249.09,2.0,2024-11-24 18:14:51.954823,Cartão,Loja 1
+833,Rafael,Pré-Treino,Black Skull,226.83,3.0,2025-04-26 18:14:51.954840,Não informado,Filial A
+834,Camila,Hipercalórico,Bl@ck Skull,207.8,3.0,2025-06-09 18:14:51.954848,Cartão,Filial A
+835,Bruna,Hipercalórico,Universal,199.51,3.0,2024-12-16 18:14:51.954856,Dinheiro,Filial A
+836,Gabriela,Omega 3,Universal,215.97,1.0,2024-10-25 18:14:51.954865,Cartao,Filial A
+837,Fernanda,multivitamínico,Midway,131.7,3.0,2025-04-29 18:14:51.954880,Cartao,Filial A
+839,Diego,Pré-Treino,Midway,139.37,2.0,2024-12-01 18:14:51.954905,Pix,Loja 1
+840,João,Omega 3,Integralmedica,57.69,1.0,2025-04-29 18:14:51.954919,Cartão,Loja 2
+841,Fernanda,Creatina,Max Titanium,186.76,2.0,2025-01-21 18:14:51.954928,Pix,Loja 2
+842,Carlos,Creatina,Atlhetica Nutrition,130.22,3.0,2025-07-15 18:14:51.954989,Cartao,Loja 2
+843,Juliana,Albumina,Atlhetica Nutrition,185.38,1.0,2025-05-20 18:14:51.955003,Cartao,Loja 1
+844,Juliana,Barra Proteica,Midway,230.38,3.0,2024-10-14 18:14:51.955012,Cartao,Loja 1
+845,Camila,Hipercalórico,Max Titanium,127.05,1.0,2024-10-23 18:14:51.955020,Cartao,Filial A
+846,Bruna,BCAA,Max Titanium,155.14,2.0,2025-03-13 18:14:51.955027,Não informado,Loja 1
+847,Bruna,Barra Proteica,Universal,173.69,2.0,2025-01-20 18:14:51.955034,Pix,Filial A
+848,Ana,Albumina,BodyAction,190.78,1.0,2025-07-03 18:14:51.955042,Dinheiro,Filial A
+849,Juliana,Pré-Treino,BodyAction,220.04,2.0,2025-08-31 18:14:51.955050,Não informado,Loja 2
+850,Bruna,Glutamina,Integralmedica,99.26,3.0,2025-02-15 18:14:51.955057,Dinheiro,Loja 1
+852,Gabriela,BCAA,Optimum Nutrition,131.6,2.0,2024-11-24 18:14:51.955071,Pix,Loja 1
+853,Camila,Multivitamínico,Max Titanium,198.73,2.0,2025-07-11 18:14:51.955079,Não informado,Loja 2
+854,Bruna,Barra Proteica,Optimum Nutrition,-72.78,2.0,32/13/2023,Pix,Filial A
+855,Rodrigo,Barra Proteica,Max Titanium,-113.56,1.0,2025-07-24 18:14:51.955094,Cartao,Loja 2
+856,Fernanda,Multivitamínico,Probiótica,61.06,2.0,32/13/2023,Cartão,Filial A
+857,Ana,Barra Proteica,Black Skull,109.52,2.0,2025-05-30 18:14:51.955109,Não informado,Loja 1
+858,Ana,Creatina,Integralmedica,112.71,1.0,2025-08-09 18:14:51.955117,Dinheiro,Loja 2
+859,Ana,Creatina,Integralmedica,160.03,2.0,2025-01-05 18:14:51.955124,Cartao,Loja 2
+860,Bruna,Whey Protein,Max Titanium,197.66,3.0,2024-11-02 18:14:51.955132,Cartao,Loja 2
+861,Ana,whey protein,Black Skull,-144.78,2.0,2025-05-15 18:14:51.955140,Cartão,Filial A
+863,Lucas,Multivitamínico,Atlhetica Nutrition,135.56,1.0,2024-10-12 18:14:51.955159,Não informado,Não informado
+864,Juliana,BCAA,Atlhetica Nutrition,215.84,2.0,2025-09-17 18:14:51.955167,Cartao,Loja 2
+865,Diego,Creatina,BodyAction,83.17,3.0,2024-10-23 18:14:51.955174,Cartão,Filial A
+866,Patrícia,Hipercalórico,Universal,186.0,1.0,2024-10-14 18:14:51.955182,Cartão,Filial A
+867,Mariana,Glutamina,Universal,234.62,2.0,2025-05-24 18:14:51.955189,Cartao,Não informado
+868,Lucas,Omega 3,Probiótica,50.6,2.0,2025-03-08 18:14:51.955197,Cartão,Filial A
+869,Lucas,BCAA,Midway,61.53,1.0,2025-09-07 18:14:51.955204,Cartão,Não informado
+870,Paulo,BCAA,Optimum Nutrition,74.82,2.0,2025-08-02 18:14:51.955211,Não informado,Não informado
+871,Gabriela,Whey Protein,Optimum Nutrition,154.13,3.0,2024-12-06 18:14:51.955218,Não informado,Loja 1
+872,Rafael,BCAA,Optimum Nutrition,208.11,1.0,2024-12-20 18:14:51.955226,Cartão,Loja 1
+873,Bruna,Creatina,Atlhetica Nutrition,90.02,3.0,2025-04-02 18:14:51.955234,Dinheiro,Não informado
+874,Carlos,Hipercalórico,Probiótica,164.79,1.0,2025-03-13 18:14:51.955244,Dinheiro,Loja 1
+876,Diego,Barra Proteica,Midw@y,170.41,2.0,2024-11-26 18:14:51.955259,Pix,Filial A
+877,Fernanda,Albumina,Universal,169.54,1.0,2025-07-13 18:14:51.955279,Pix,Loja 2
+878,Lucas,BCAA,Atlhetica Nutrition,170.04,1.0,2024-11-11 18:14:51.955287,Pix,Não informado
+879,Rodrigo,Hipercalórico,Max Titanium,-131.16,2.0,2025-06-02 18:14:51.955294,Pix,Filial A
+880,Patrícia,Creatina,BodyAction,93.53,2.0,2024-11-27 18:14:51.955302,Pix,Loja 1
+881,Gabriela,Barra Proteica,Atlhetica Nutrition,175.93,2.0,2024-11-21 18:14:51.955309,Dinheiro,Loja 1
+882,Diego,Multivitamínico,Atlhetica Nutrition,130.09,2.0,2024-11-15 18:14:51.955317,Cartao,Não informado
+883,Ana,Multivitamínico,Probiótica,86.05,2.0,2025-05-14 18:14:51.955324,Não informado,Loja 2
+884,Juliana,Whey Protein,Integralmedica,52.88,2.0,2025-04-24 18:14:51.955331,Dinheiro,Filial A
+885,Juliana,Omega 3,Growth,-200.79,2.0,2025-03-03 18:14:51.955339,Cartão,Loja 1
+886,Gabriela,Omega 3,Atlhetica Nutrition,165.19,2.0,2024-11-16 18:14:51.955347,Cartão,Loja 2
+887,Diego,Whey Protein,Integralmedica,176.69,2.0,2025-03-16 18:14:51.955353,Cartão,Loja 1
+888,Gabriela,Pré-Treino,Black Skull,57.05,2.0,2024-09-30 18:14:51.955361,Não informado,Não informado
+889,Lucas,BCAA,Probiótica,68.57,2.0,2024-11-22 18:14:51.955369,Não informado,Loja 2
+890,Juliana,Glutamina,Integralmedica,152.48,2.0,2025-04-29 18:14:51.955376,Não informado,Loja 2
+891,João,Glutamina,BodyAction,57.46,3.0,2025-07-02 18:14:51.955384,Não informado,Loja 2
+892,Bruna,Barra Proteica,Atlhetic@ Nutrition,216.57,3.0,2024-11-22 18:14:51.955392,Cartao,Loja 1
+893,João,Barra Proteica,Universal,217.9,3.0,2025-02-07 18:14:51.955400,Não informado,Loja 2
+894,Ana,Whey Protein,Atlhetica Nutrition,92.45,2.0,2024-10-23 18:14:51.955407,Cartao,Não informado
+895,Diego,Barra Proteica,Optimum Nutrition,220.67,2.0,2024-12-04 18:14:51.955415,Pix,Não informado
+896,Camila,Creatina,Probiótica,193.16,2.0,2025-01-27 18:14:51.955422,Cartao,Não informado
+897,Paulo,albumina,BodyAction,69.18,2.0,2025-06-17 18:14:51.955430,Dinheiro,Filial A
+898,Lucas,Hipercalórico,Black Skull,206.31,2.0,2025-01-24 18:14:51.955438,Cartão,Loja 2
+899,Rodrigo,Glutamina,Universal,83.56,3.0,2025-09-12 18:14:51.955445,Pix,Loja 1
+900,Rodrigo,Pré-Treino,Optimum Nutrition,216.18,2.0,2025-05-25 18:14:51.955453,Pix,Loja 2
+901,Juliana,Hipercalórico,Universal,194.02,2.0,2025-02-17 18:14:51.955460,Cartao,Filial A
+903,Camila,Pré-Treino,Growth,110.81,3.0,2025-03-07 18:14:51.955474,Não informado,Não informado
+904,Paulo,Pré-Treino,Integralmedica,67.76,1.0,2025-02-12 18:14:51.955482,Cartão,Não informado
+905,Patrícia,Glutamina,Universal,99.0,1.0,2025-01-12 18:14:51.955489,Não informado,Não informado
+906,Rodrigo,Multivitamínico,Atlhetica Nutrition,238.19,2.0,2024-12-03 18:14:51.955498,Dinheiro,Não informado
+907,Paulo,Multivitamínico,Growth,143.15,3.0,32/13/2023,Cartao,Não informado
+908,Diego,Albumina,Atlhetica Nutrition,144.24,1.0,2024-11-15 18:14:51.955512,Cartão,Loja 1
+909,Lucas,Glutamina,Atlhetica Nutrition,198.97,3.0,2024-10-29 18:14:51.955520,Pix,Loja 2
+910,Rafael,BCAA,Integralmedica,186.71,1.0,2025-05-19 18:14:51.955527,Não informado,Loja 1
+911,Carlos,Whey Protein,Midway,65.56,2.0,2025-04-22 18:14:51.955535,Cartão,Loja 1
+912,Gabriela,Albumina,Optimum Nutrition,112.39,1.0,2025-01-11 18:14:51.955542,Cartao,Não informado
+913,Gabriela,Whey Protein,Midway,216.78,1.0,2025-03-23 18:14:51.955549,Pix,Não informado
+915,Rafael,Glutamina,Midway,100.68,1.0,2024-12-31 18:14:51.955564,Cartão,Filial A
+916,Diego,Glutamina,BodyAction,198.13,3.0,2025-04-28 18:14:51.955572,Cartão,Loja 2
+917,Rafael,Barra Proteica,Integralmedica,179.03,2.0,2025-03-02 18:14:51.955580,Cartao,Não informado
+918,Patrícia,Creatina,Atlhetica,121.07,2.0,2025-04-20 18:14:51.955588,Cartão,Filial A
+919,João,Barra Proteica,Atlhetica Nutrition,170.46,1.0,2024-12-08 18:14:51.955595,Cartão,Loja 2
+920,Fernanda,Hipercalórico,Max Titanium,93.03,2.0,2025-04-23 18:14:51.955603,Não informado,Loja 1
+921,Fernanda,Whey Protein,BodyAction,101.82,2.0,2025-04-23 18:14:51.955610,Cartão,Filial A
+922,Lucas,Multivitamínico,Growth,62.66,2.0,2025-05-01 18:14:51.955618,Cartão,Filial A
+923,Paulo,Hipercalórico,Atlhetica Nutrition,60.79,2.0,2025-08-30 18:14:51.955625,Pix,Loja 1
+924,Diego,Multivitamínico,Max Titanium,131.45,3.0,2025-04-19 18:14:51.955633,Cartao,Loja 2
+925,Paulo,Glutamina,Max Titanium,168.2,3.0,2025-04-08 18:14:51.955640,Cartao,Filial A
+926,Gabriela,Creatina,M@x Tit@nium,199.64,1.0,2025-09-21 18:14:51.955648,Não informado,Loja 2
+927,Mariana,Glutamina,Universal,75.19,2.0,2025-03-31 18:14:51.955657,Cartao,Loja 2
+928,Gabriela,Hipercalórico,Universal,104.2,1.0,32/13/2023,Não informado,Loja 2
+929,Mariana,Albumina,BodyAction,-79.15,2.0,2025-05-16 18:14:51.955672,Não informado,Não informado
+930,Paulo,BCAA,Optimum Nutrition,109.05,1.0,2025-04-13 18:14:51.955679,Não informado,Loja 1
+931,Paulo,BCAA,Univers@l,55.74,3.0,2025-09-23 18:14:51.955686,Pix,Filial A
+932,Camila,Multivitamínico,Universal,-193.6,3.0,2025-02-18 18:14:51.955694,Pix,Loja 2
+933,Ana,Creatina,Atlhetica Nutrition,148.43,2.0,2025-04-05 18:14:51.955702,Não informado,Loja 2
+934,Carlos,Pré-Treino,Universal,168.32,2.0,2024-12-19 18:14:51.955709,Pix,Não informado
+935,Rodrigo,Barra Proteica,Max Titanium,53.34,3.0,2025-01-06 18:14:51.955717,Pix,Loja 2
+936,Fernanda,BCAA,Black Skull,141.92,2.0,2025-03-28 18:14:51.955723,Cartao,Loja 2
+937,Fernanda,Pré-Treino,Universal,116.28,2.0,32/13/2023,Não informado,Filial A
+938,Rodrigo,Omega 3,BodyAction,126.0,2.0,2025-03-25 18:14:51.955738,Não informado,Loja 2
+939,Rodrigo,BCAA,BodyAction,93.67,2.0,2025-01-11 18:14:51.955745,Cartao,Filial A
+940,Gabriela,Hipercalórico,Optimum Nutrition,114.79,3.0,2025-05-09 18:14:51.955752,Não informado,Não informado
+941,Rafael,BCAA,Probiótica,186.74,2.0,2025-01-15 18:14:51.955760,Cartao,Filial A
+942,Fernanda,Multivitamínico,Max Titanium,186.78,2.0,2025-04-17 18:14:51.955767,Cartão,Não informado
+943,Bruna,Glutamina,Universal,205.73,2.0,2025-02-16 18:14:51.955775,Cartao,Loja 2
+944,Camila,Whey Protein,Probiótica,217.01,1.0,2025-08-17 18:14:51.955782,Pix,Não informado
+945,Gabriela,BCAA,Integralmedica,92.99,2.0,2025-03-18 18:14:51.955789,Cartão,Filial A
+946,Bruna,Whey Protein,BodyAction,89.31,2.0,2025-04-12 18:14:51.955802,Cartao,Loja 2
+947,Rafael,Omega 3,Optimum Nutrition,-133.37,2.0,32/13/2023,Cartao,Não informado
+948,Rodrigo,Glutamina,Universal,175.83,3.0,2024-11-14 18:14:51.955842,Cartão,Loja 2
+949,Paulo,Omega 3,Optimum Nutrition,150.26,1.0,2025-03-31 18:14:51.955850,Dinheiro,Loja 2
+950,Rodrigo,Whey Protein,Atlhetica Nutrition,86.48,3.0,2025-03-10 18:14:51.955858,Não informado,Filial A
+951,Patrícia,hipercalórico,Growth,206.26,1.0,2024-11-23 18:14:51.955866,Cartao,Não informado
+952,Rafael,Albumina,Black Skull,83.04,3.0,2024-11-16 18:14:51.955873,Não informado,Loja 2
+953,Fernanda,Albumina,Optimum Nutrition,-166.47,2.0,2025-04-16 18:14:51.955880,Não informado,Filial A
+954,Gabriela,Pré-Treino,Universal,221.96,2.0,2025-09-28 18:14:51.955887,Pix,Loja 1
+955,Diego,Hipercalórico,Black Skull,142.76,2.0,2025-09-05 18:14:51.955894,Pix,Filial A
+956,Diego,Multivitamínico,Midway,228.89,2.0,2025-07-03 18:14:51.955902,Pix,Não informado
+957,Fernanda,Albumina,Atlhetica Nutrition,111.8,3.0,2025-02-02 18:14:51.955909,Pix,Loja 2
+958,João,BCAA,Atlhetica Nutrition,166.41,3.0,2025-01-23 18:14:51.955917,Não informado,Loja 1
+959,Gabriela,Hipercalórico,BodyAction,205.34,3.0,32/13/2023,Cartão,Não informado
+960,Carlos,Glutamina,Optimum Nutrition,148.54,2.0,2025-05-04 18:14:51.955932,Pix,Filial A
+961,Lucas,Albumina,Probiótica,130.48,2.0,2024-11-22 18:14:51.955939,Cartão,Loja 1
+962,Carlos,Multivitamínico,Growth,126.64,1.0,2025-01-22 18:14:51.955946,Não informado,Loja 2
+963,Fernanda,Albumina,Integralmedica,206.12,2.0,2025-02-14 18:14:51.955953,Dinheiro,Filial A
+964,João,Hipercalórico,Atlhetica Nutrition,61.56,2.0,2025-05-14 18:14:51.955961,Dinheiro,Loja 2
+965,Juliana,Albumina,Midw@y,143.62,3.0,2024-11-19 18:14:51.955968,Cartao,Loja 2
+966,Rafael,Multivitamínico,Universal,188.9,2.0,2024-10-04 18:14:51.955975,Cartão,Loja 1
+967,Camila,Multivitamínico,Atlhetica Nutrition,212.75,2.0,2025-07-02 18:14:51.955982,Pix,Loja 2
+968,Gabriela,Hipercalórico,Midway,78.3,2.0,2025-02-22 18:14:51.955989,Cartão,Loja 1
+969,Juliana,BCAA,Integralmedica,223.35,2.0,2025-08-05 18:14:51.955996,Não informado,Loja 2
+970,Rodrigo,Albumina,Universal,102.82,3.0,2024-10-06 18:14:51.956011,Pix,Filial A
+971,Patrícia,Glutamina,Max Titanium,202.9,2.0,2025-03-18 18:14:51.956018,Dinheiro,Loja 1
+972,Gabriela,Albumina,BodyAction,240.24,1.0,2024-12-29 18:14:51.956026,Pix,Não informado
+973,Carlos,Glutamina,Growth,89.67,1.0,2025-08-04 18:14:51.956033,Dinheiro,Loja 2
+975,Fernanda,Pré-Treino,Midway,187.81,1.0,2025-01-17 18:14:51.956053,Pix,Não informado
+976,Fernanda,Whey Protein,Universal,215.42,3.0,2025-03-08 18:14:51.956060,Cartao,Não informado
+977,Patrícia,Creatina,Growth,-171.85,3.0,32/13/2023,Não informado,Não informado
+978,Gabriela,Whey Protein,Max Titanium,74.68,1.0,2025-06-25 18:14:51.956075,Não informado,Loja 2
+980,Mariana,BCAA,Growth,-105.27,2.0,2025-06-20 18:14:51.956090,Pix,Loja 2
+982,Lucas,Pré-Treino,M@x Tit@nium,59.42,2.0,2024-12-25 18:14:51.956104,Cartão,Filial A
+984,João,Whey Protein,Growth,232.02,2.0,2025-08-13 18:14:51.956118,Pix,Loja 2
+985,Juliana,Omega 3,Optimum Nutrition,140.71,2.0,32/13/2023,Pix,Loja 2
+986,Patrícia,Albumina,Midway,218.41,2.0,32/13/2023,Dinheiro,Loja 2
+987,Patrícia,Barra Proteica,Optimum Nutrition,246.0,1.0,2025-04-28 18:14:51.956140,Não informado,Loja 1
+988,Lucas,Glutamina,Probiótica,127.4,2.0,2025-01-25 18:14:51.956147,Não informado,Filial A
+989,Rodrigo,Barra Proteica,Optimum Nutrition,146.82,3.0,2025-02-11 18:14:51.956154,Pix,Não informado
+990,Rafael,Multivitamínico,Optimum Nutrition,109.21,1.0,2025-06-17 18:14:51.956162,Não informado,Filial A
+991,Gabriela,Hipercalórico,Univers@l,195.78,2.0,2025-08-26 18:14:51.956170,Dinheiro,Não informado
+992,Juliana,Omega 3,Optimum Nutrition,-124.92,2.0,2025-07-18 18:14:51.956178,Cartao,Não informado
+993,Lucas,BCAA,Optimum Nutrition,137.56,2.0,2024-12-20 18:14:51.956186,Dinheiro,Loja 2
+994,Gabriela,Whey Protein,Integralmedica,238.33,2.0,2024-11-18 18:14:51.956193,Dinheiro,Filial A
+995,Patrícia,hipercalórico,Growth,246.98,1.0,2025-03-09 18:14:51.956201,Dinheiro,Loja 2
+996,Rafael,Multivitamínico,Integralmedica,98.49,2.0,2025-03-18 18:14:51.956207,Pix,Filial A
+997,Fernanda,Omega 3,Atlhetica Nutrition,200.69,3.0,2025-07-06 18:14:51.956215,Pix,Loja 2
+998,Fernanda,Whey Protein,Universal,-116.6,2.0,2024-12-22 18:14:51.956222,Cartao,Não informado
+999,Ana,bcaa,Integralmedica,146.11,2.0,2025-04-16 18:14:51.956229,Cartao,Loja 2
+1000,Lucas,Barra Proteica,Optimum Nutrition,227.11,1.0,2025-05-24 18:14:51.956237,Pix,Filial A
