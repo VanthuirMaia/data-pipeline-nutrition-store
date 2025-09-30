@@ -51,7 +51,7 @@ project-data-pipeline-store-nutrition/
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/project-data-pipeline-store-nutrition.git
+   git clone https://github.com/VanthuirMaia/data-pipeline-nutrition-store
    cd project-data-pipeline-store-nutrition
    ```
 
