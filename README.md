@@ -6,14 +6,16 @@ Este projeto tem como objetivo simular e desenvolver um **pipeline de análise e
 voltado para o segmento de **nutrição esportiva (suplementos)**.
 
 A proposta é trabalhar desde o **tratamento e limpeza de dados brutos**, passando pela **exploração (EDA)**,
-até a **geração de insights de negócio**, como:
+até a **geração de insights de negócio** e finalização com um **dashboard interativo em Streamlit**, incluindo:
 
 - Produtos mais vendidos;
 - Marcas com maior participação no faturamento;
 - Comparação entre lojas (Loja 1, Loja 2, Filial);
-- Comportamento de clientes e ticket médio.
+- Comportamento de clientes e ticket médio;
+- Visualizações executivas (KPIs, gráficos organizados em grid).
 
-Este projeto serve tanto como **portfólio** quanto como **exercício prático** de boas práticas em Engenharia de Dados.
+Este projeto serve tanto como **portfólio** quanto como **exercício prático** de boas práticas em Engenharia de Dados,
+utilizando o método **Aprendizagem Baseada em Projetos (Project-Based Learning)**.
 
 ---
 
@@ -23,13 +25,21 @@ Este projeto serve tanto como **portfólio** quanto como **exercício prático**
 project-data-pipeline-store-nutrition/
 │
 ├── data/                  # datasets brutos e tratados
-│   └── DT_Store_Suplements.csv
+│   ├── DT_Store_Suplements.csv
+│   └── DT_Store_Suplements_final.csv
 │
-├── notebooks/             # Jupyter notebooks para exploração (EDA, testes)
+├── notebooks/             # Jupyter notebooks para exploração (EDA, testes, relatórios)
+│   ├── 01_exploracao_inicial.ipynb
+│   ├── 02_tratamento_dados.ipynb
+│   ├── 03_padronizacao.ipynb
+│   ├── 04_analise_exploratoria.ipynb
+│   └── 05_relatorio.ipynb
 │
 ├── scripts/               # scripts Python com funções reutilizáveis
 │
 ├── docs/                  # relatórios, imagens, documentação complementar
+│
+├── app.py                 # dashboard interativo em Streamlit
 │
 ├── README.md              # documentação principal do projeto
 └── requirements.txt       # bibliotecas necessárias
@@ -60,20 +70,29 @@ project-data-pipeline-store-nutrition/
    pip install -r requirements.txt
    ```
 
-4. Inicie o Jupyter Notebook (se for explorar):
+4. Inicie o Jupyter Notebook (se for explorar os notebooks):
+
    ```bash
    jupyter notebook
+   ```
+
+5. Execute o dashboard no Streamlit:
+   ```bash
+   streamlit run app.py
    ```
 
 ---
 
 ## 🚀 Próximos Passos
 
-- [ ] Exploração inicial do dataset (`/notebooks`)
-- [ ] Tratamento de dados inconsistentes
-- [ ] Criação de scripts de limpeza em `/scripts`
-- [ ] Análises de vendas, marcas e clientes
-- [ ] Dashboard de visualização (Power BI ou Python)
+- [x] Exploração inicial do dataset (`/notebooks`)
+- [x] Tratamento de dados inconsistentes
+- [x] Padronização de colunas (produtos, marcas, categorias)
+- [x] Criação de KPIs e métricas de negócio
+- [x] Dashboard interativo com Streamlit
+- [ ] Versão em Power BI para maior interatividade
+- [ ] Inclusão de métricas avançadas (CLV, CAC, LTV)
+- [ ] Aplicação de modelos de Machine Learning (recomendação e previsão)
 
 ---
 
